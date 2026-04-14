@@ -1,4 +1,4 @@
-# 📅 Mérida Agenda — Noticias y Eventos en Tiempo Real
+# 📅 Agenda Mérida — Noticias y Eventos en Tiempo Real
 
 Una plataforma automatizada que centraliza toda la actualidad, cultura y ocio de la ciudad de **Mérida (Extremadura, España)**. El proyecto utiliza técnicas de web scraping para unificar 10 fuentes locales oficiales en una interfaz "Premium" moderna y siempre actualizada.
 
