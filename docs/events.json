@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T17:11:20Z",
-  "count": 134,
+  "updated_at": "2026-04-14T19:19:22Z",
+  "count": 122,
   "events": [
     {
       "title": "El Grecolatino devuelve la juventud al Teatro Romano de Mérida con 12.000 alumnos",
@@ -155,8 +155,24 @@
       "location": "Mérida"
     },
     {
+      "title": "El teatro clásico inunda Mérida con la inauguración del Festival Juvenil Grecolatino",
+      "description": "12.000 estudiantes de España y de otros países europeos, más 600 profesores, llegan a la ciudad atraídos por la cultura; estarán hasta el próximo jueves",
+      "date": "2026-04-14",
+      "url": "https://www.hoy.es/merida/teatro-clasico-inunda-merida-inauguracion-festival-juvenil-20260414133741-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El historiador José Luis de la Barrera, este miércoles en las charlas del Liceo de Mérida",
+      "description": "14 abr 2026 19:09",
+      "date": "2026-04-14",
+      "url": "https://www.hoy.es/merida/historiador-jose-luis-barrera-miercoles-charlas-liceo-20260414190032-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La empresa de la fábrica de cátodos en ExpacioMérida comprará el terreno en unos días",
-      "description": "El consejero de Economía anticipa que la operación se va a culminar en breve; no apunta fecha de inicio de las obras",
+      "description": "14 abr 2026 07:19",
       "date": "2026-04-14",
       "url": "https://www.hoy.es/merida/empresa-fabrica-catodos-expaciomerida-comprara-terreno-dias-20260414184027-nt.html",
       "source": "Hoy.es",
@@ -187,7 +203,15 @@
       "location": "Mérida"
     },
     {
-      "title": "Aranda subraya el sistema romano de abastecimiento de Augusta Emerita en una charla para una sociedad alemana",
+      "title": "Los Almoril cumplen 15 años con su Botica y crean perfumes propios para Mérida",
+      "description": "13 abr 2026 11:23",
+      "date": "2026-04-14",
+      "url": "https://www.hoy.es/merida/almoril-cumplen-anos-botica-crean-perfumes-propios-20260412134649-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Aranda subraya el sistema de abastecimiento de Augusta Emerita en una charla para una sociedad alemana",
       "description": "13 abr 2026 07:23",
       "date": "2026-04-14",
       "url": "https://www.hoy.es/merida/aranda-subraya-sistema-abastecimiento-augusta-emerita-charla-20260413142131-nt.html",
@@ -199,22 +223,6 @@
       "description": "13 abr 2026 07:22",
       "date": "2026-04-14",
       "url": "https://www.hoy.es/merida/cuatro-escolares-merida-premiados-9300-inscritos-concurso-20260413150047-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El teatro clásico inunda Mérida con la inauguración del Festival Juvenil Grecolatino",
-      "description": "14 abr 2026 18:32",
-      "date": "2026-04-14",
-      "url": "https://www.hoy.es/merida/teatro-clasico-inunda-merida-inauguracion-festival-juvenil-20260414133741-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los Almoril cumplen 15 años con su Botica y crean perfumes propios para Mérida",
-      "description": "13 abr 2026 11:23",
-      "date": "2026-04-14",
-      "url": "https://www.hoy.es/merida/almoril-cumplen-anos-botica-crean-perfumes-propios-20260412134649-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -303,14 +311,6 @@
       "description": "09 abr 2026 12:17",
       "date": "2026-04-14",
       "url": "https://www.hoy.es/merida/ofertan-dos-programas-formacion-insercion-laboral-artesania-20260409115635-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fernando Delgado aborda la historia del Liceo en la primera charla del nuevo ciclo de conferencias",
-      "description": "09 abr 2026 08:18",
-      "date": "2026-04-14",
-      "url": "https://www.hoy.es/merida/fernando-delgado-aborda-historia-liceo-primera-charla-20260409210201-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -416,94 +416,6 @@
       "date": "2026-04-14",
       "url": "https://merida.es/el-alcalde-resalta-la-importancia-de-la-mum-para-posicionar-a-merida-como-gran-espacio-escenico-y-cultural/",
       "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El del Ciclo de Cine en Versión Original de Cineclub Forumofrece siete películas todos los lunes de abril y mayo",
-      "description": "",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/04/10/el-del-ciclo-de-cine-en-version-original-de-cineclub-forumofrece-siete-peliculas-todos-los-lunes-de-abril-y-mayo/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local intervino en 11 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/04/07/la-policia-local-intervino-en-11-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local intervino en 8 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/04/01/la-policia-local-intervino-en-8-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cortes de tráfico debido a la celebración de la Media Maratón y las pruebas de la Milla y 5K Campeonato de España y Popular este fin de semana",
-      "description": "",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/04/09/cortes-de-trafico-debido-a-la-celebracion-de-la-media-maraton-y-las-pruebas-de-la-milla-y-5k-campeonato-de-espana-y-popular-este-fin-de-semana/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Media Maratón y el Campeonato de España se celebran este sábado con el emeritense Jorge González, como gran favorito de la prueba",
-      "description": "",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/04/07/la-media-maraton-y-el-campeonato-de-espana-se-celebran-este-sabado-con-el-emeritense-jorge-gonzalez-como-gran-favorito-de-la-prueba/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Entradas a la venta para el encuentro entre la AD Mérida frente a CD Tenerife de la jornada 32",
-      "description": "",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/04/03/entradas-a-la-venta-para-el-encuentro-entre-la-ad-merida-frente-a-cd-tenerife-de-la-jornada-32/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El CD Josefinas Mérida golpea primero en semifinales y tumba al gran favorito en un abarrotado La Paz",
-      "description": "",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/03/29/el-cd-josefinas-merida-golpea-primero-en-semifinales-y-tumba-al-gran-favorito-en-un-abarrotado-la-paz/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Olimpiada Escolar reúne en la Ciudad Deportiva a 688 deportistas de 19 centros educativos",
-      "description": "",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/03/26/la-olimpiada-escolar-reune-en-la-ciudad-deportiva-a-688-deportistas-de-19-centros-educativos/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida se consolida como motor turístico con casi 64.000 visitantes en Semana Santa y un crecimiento imparable con unas cifras récord que refuerzan su liderazgo turístico",
-      "description": "",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/04/08/merida-se-consolida-como-motor-turistico-con-casi-64-000-visitantes-en-semana-santa-y-un-crecimiento-imparable-con-unas-cifras-record-que-refuerzan-su-liderazgo-turistico/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El tren turístico “Al Ándalus” de RENFE hace parada en Mérida",
-      "description": "",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/04/07/el-tren-turistico-al-andalus-de-renfe-hace-parada-en-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
-      "description": "por Mérida Noticias en Eventos 0",
-      "date": "2026-04-14",
-      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
-      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -951,14 +863,6 @@
       "description": "Del 14 al 17 de abril de 2026, el Teatro Romano acoge la XXVIII edición del Festival Juvenil Europeo de Teatro Grecolatino que organiza el IES Santa Eulalia. Se trata de un festival que comenzó en el año 1997 con unas características específicamente didácticas pues está dedicado en especial a los...",
       "date": "2026-04-14",
       "url": "https://merida.es/agenda/xxviii-festival-juvenil-europeo-de-teatro-grecolatino/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Aula Literaria Jesús Delgado Valhondo: «Piedad Bonnett»",
-      "description": "El próximo martes 14 de abril, a las 19:45 horas, en la Sala Dulce Chacón (4º planta) de la Biblioteca Municipal 'Juan Pablo Forner', tendrá lugar cuarto y último encuentro del Aula Literaria Jesús Delgado Valhondo, de este curso 2025/2026. La autora invitada en esta ocasión será la escritora Pie...",
-      "date": "2026-04-14",
-      "url": "https://merida.es/agenda/aula-literaria-jesus-delgado-valhondo-piedad-bonnett/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
