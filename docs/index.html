@@ -393,8 +393,6 @@
         <span>
           <div class="status-dot"></div> Actualizado cada 2 horas
         </span>
-        <span>Última sincronización: <span id="last-updated"
-            style="font-weight: 600; color: var(--primary);">—</span></span>
       </div>
     </div>
   </header>
@@ -441,7 +439,6 @@
       const statusMsg = document.getElementById('status-msg');
       const countEl = document.getElementById('event-count');
       const searchEl = document.getElementById('search');
-      const updatedEl = document.getElementById('last-updated');
 
       let allEvents = [];
 
@@ -527,11 +524,7 @@
 
         allEvents = data.events || [];
 
-        // Última actualización
-        if (data.updated_at) {
-          const d = new Date(data.updated_at);
-          updatedEl.textContent = d.toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit' }) + ' (' + d.toLocaleDateString('es-ES', { day: 'numeric', month: 'short' }) + ')';
-        }
+        // render...
 
         render(allEvents);
       } catch (err) {
