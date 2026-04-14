@@ -336,17 +336,23 @@ def main():
     all_items = dedup(all_items)
     log.info(f"Tras deduplicar: {len(all_items)}.")
 
-    # Ordenar por fecha descendente (lo más reciente arriba)
-    all_items.sort(key=lambda x: x.get("date") or "0000-00-00", reverse=True)
+    # Filtro de fecha y ordenación
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    
+    # Solo nos quedamos con noticias de hoy o pasado (según petición del usuario)
+    current_and_past = [item for item in all_items if item.get("date") and item.get("date") <= today_str]
+    
+    # Ordenar por fecha descendente (lo más reciente/HOY arriba)
+    current_and_past.sort(key=lambda x: x.get("date", "0000-00-00"), reverse=True)
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "count": len(all_items),
-        "events": all_items,
+        "count": len(current_and_past),
+        "events": current_and_past,
     }
     OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    log.info(f"=== Guardado en {OUTPUT_PATH} ({len(all_items)} items) ===")
+    log.info(f"=== Guardado en {OUTPUT_PATH} ({len(current_and_past)} items) ===")
 
 if __name__ == "__main__":
     main()
