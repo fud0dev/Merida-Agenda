@@ -1,0 +1,304 @@
+#!/usr/bin/env python3
+"""
+fetch_events.py — Obtiene información de Mérida (Extremadura, España)
+Fuentes solicitadas por el usuario:
+  1. El Periódico Extremadura (Mérida)
+  2. Hoy.es (Mérida)
+  3. Mérida y Comarca
+  4. Mérida Diario
+  5. Mérida.es (Noticias)
+  6. Mérida Noticias
+  7. La Crónica de Badajoz (Mérida)
+  8. Cadena SER (Mérida)
+  9. Onda Cero (Mérida)
+  10. Mérida.es (Agenda)
+"""
+
+import json
+import logging
+import sys
+import re
+from datetime import datetime, timezone
+from pathlib import Path
+from urllib.parse import urljoin
+
+import requests
+from bs4 import BeautifulSoup
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[logging.StreamHandler(sys.stdout)],
+)
+log = logging.getLogger(__name__)
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "es-ES,es;q=0.9",
+    "Referer": "https://www.google.com/",
+}
+TIMEOUT = 20
+OUTPUT_PATH = Path(__file__).parent.parent / "docs" / "events.json"
+
+# ──────────────────────────────────────────────
+# Helpers
+# ──────────────────────────────────────────────
+
+def get_page(url):
+    """Realiza una petición GET con headers para evitar bloqueos."""
+    try:
+        session = requests.Session()
+        resp = session.get(url, headers=HEADERS, timeout=TIMEOUT)
+        resp.raise_for_status()
+        return resp.text
+    except Exception as e:
+        log.warning(f"Error al obtener {url}: {e}")
+        return None
+
+def parse_date(raw: str) -> str | None:
+    """Intenta parsear una cadena de fecha a ISO-8601 (YYYY-MM-DD)."""
+    if not raw:
+        return None
+    
+    formats = [
+        "%Y-%m-%dT%H:%M:%S",
+        "%Y-%m-%dT%H:%M:%SZ",
+        "%Y-%m-%dT%H:%M:%S%z",
+        "%d/%m/%Y",
+        "%d-%m-%Y",
+        "%d de %B de %Y",
+        "%Y-%m-%d",
+    ]
+    
+    meses = {
+        "enero": "01", "febrero": "02", "marzo": "03", "abril": "04",
+        "mayo": "05", "junio": "06", "julio": "07", "agosto": "08",
+        "septiembre": "09", "octubre": "10", "noviembre": "11", "diciembre": "12",
+    }
+    
+    raw_lower = raw.strip().lower()
+    for mes, num in meses.items():
+        raw_lower = raw_lower.replace(mes, num)
+
+    m = re.search(r"(\d{1,2}) de (\d{2}) de (\d{4})", raw_lower)
+    if m:
+        raw_lower = f"{m.group(3)}-{m.group(2)}-{int(m.group(1)):02d}"
+
+    for fmt in formats:
+        try:
+            # Intentar coincidencia parcial para fechas largas
+            match = re.search(r"\d{4}-\d{2}-\d{2}", raw_lower)
+            if match and fmt == "%Y-%m-%d":
+                return match.group(0)
+            
+            return datetime.strptime(raw_lower[:10], fmt[:10]).strftime("%Y-%m-%d")
+        except:
+            pass
+    return None
+
+def is_valid_item(title, url):
+    """Filtros básicos para evitar ruido."""
+    if not title or not url:
+        return False
+    if len(title) < 5:
+        return False
+    return True
+
+# ──────────────────────────────────────────────
+# Scraper Genérico
+# ──────────────────────────────────────────────
+
+def fetch_source(name, url, selectors):
+    """Extrae información de una fuente usando selectores CSS."""
+    log.info(f"Scraping [{name}]...")
+    html = get_page(url)
+    if not html:
+        return []
+
+    soup = BeautifulSoup(html, "lxml")
+    results = []
+    
+    # Selectores de items más comunes
+    item_selector = selectors.get("item", "article, .post, .entry, .news-item")
+    items = soup.select(item_selector)
+    
+    # Selectores de títulos más comunes
+    title_selectors = selectors.get("title", "h1, h2, h3, h4, .title, .entry-title, .event-title")
+    
+    for entry in items[:25]:
+        try:
+            # Título
+            title_tag = entry.select_one(title_selectors)
+            title = title_tag.get_text(strip=True) if title_tag else None
+            
+            # Enlace
+            link_tag = entry.find("a", href=True)
+            if not link_tag and entry.name == "a":
+                link_tag = entry
+            
+            href = link_tag.get("href") if link_tag else None
+            if href:
+                href = urljoin(url, href)
+            
+            # Fecha
+            date = None
+            date_selector = selectors.get("date", "time, .date, .entry-date, .fecha")
+            date_tag = entry.select_one(date_selector)
+            if date_tag:
+                raw_date = date_tag.get("datetime") or date_tag.get("content") or date_tag.get_text(strip=True)
+                date = parse_date(raw_date)
+
+            if is_valid_item(title, href):
+                results.append({
+                    "title": title,
+                    "date": date or "",
+                    "url": href,
+                    "source": name,
+                    "location": "Mérida"
+                })
+        except Exception as e:
+            log.debug(f"Error procesando item en {name}: {e}")
+            
+    log.info(f"[{name}] {len(results)} items encontrados.")
+    return results
+
+# ──────────────────────────────────────────────
+# Configuración de Fuentes
+# ──────────────────────────────────────────────
+
+SOURCES = [
+    {
+        "name": "El Periódico Extremadura",
+        "url": "https://www.elperiodicoextremadura.com/merida/",
+        "selectors": {
+            "item": "article, .article",
+            "title": "h2, h3, .title, a"
+        }
+    },
+    {
+        "name": "Hoy.es",
+        "url": "https://www.hoy.es/merida/",
+        "selectors": {
+            "item": "article, .v-card, .news-item",
+            "title": "h2, h3, .title"
+        }
+    },
+    {
+        "name": "Mérida y Comarca",
+        "url": "https://meridaycomarca.com/",
+        "selectors": {
+            "item": "article, .post, .entry",
+            "title": "h2, h3, .entry-title"
+        }
+    },
+    {
+        "name": "Mérida Diario",
+        "url": "https://www.meridadiario.com/",
+        "selectors": {
+            "item": "article, .post, .td-block-span12, .td-animation-stack-type0",
+            "title": "h2, h3, .entry-title"
+        }
+    },
+    {
+        "name": "Ayuntamiento - Noticias",
+        "url": "https://merida.es/category/noticias/",
+        "selectors": {
+            "item": "article, .post",
+            "title": "h2, h3, .title"
+        }
+    },
+    {
+        "name": "Mérida Noticias",
+        "url": "https://meridanoticias.com/",
+        "selectors": {
+            "item": "article, .post",
+            "title": "h2, h3, .entry-title"
+        }
+    },
+    {
+        "name": "La Crónica de Badajoz",
+        "url": "https://www.lacronicabadajoz.com/merida/",
+        "selectors": {
+            "item": "article, .ft-layout-grid-flex__row",
+            "title": "h2, h3, .title"
+        }
+    },
+    {
+        "name": "Cadena SER Mérida",
+        "url": "https://cadenaser.com/ser-merida/",
+        "selectors": {
+            "item": "article, .c-list-article",
+            "title": "h2, .c-list-article__title, .title"
+        }
+    },
+    {
+        "name": "Onda Cero Mérida",
+        "url": "https://www.ondacero.es/emisoras/extremadura/merida/",
+        "selectors": {
+            "item": "article, .teaser",
+            "title": "h2, .teaser__title, .title"
+        }
+    },
+    {
+        "name": "Ayuntamiento - Agenda",
+        "url": "https://merida.es/agenda/",
+        "selectors": {
+            "item": "article, .evento, .calendar-list__event, .tribe-events-calendar-list__event",
+            "title": "h2, h3, h4, .title, .event-title"
+        }
+    }
+]
+
+# ──────────────────────────────────────────────
+# Main
+# ──────────────────────────────────────────────
+
+def dedup(items: list[dict]) -> list[dict]:
+    """Elimina duplicados por título y URL."""
+    seen_titles = set()
+    seen_urls = set()
+    result = []
+    for item in items:
+        title = item.get("title", "").lower().strip()
+        url = item.get("url", "").strip()
+        if title not in seen_titles and url not in seen_urls:
+            seen_titles.add(title)
+            seen_urls.add(url)
+            result.append(item)
+    return result
+
+def main():
+    log.info("=== Inicio de obtención de Agenda/Noticias Mérida ===")
+    all_items = []
+
+    for src in SOURCES:
+        try:
+            items = fetch_source(src["name"], src["url"], src["selectors"])
+            all_items.extend(items)
+        except Exception as e:
+            log.error(f"Error en fuente {src['name']}: {e}")
+
+    log.info(f"Total bruto: {len(all_items)} items.")
+
+    # Deduplicar
+    all_items = dedup(all_items)
+    log.info(f"Tras deduplicar: {len(all_items)}.")
+
+    # Ordenar por fecha descendente (lo más reciente arriba)
+    all_items.sort(key=lambda x: x.get("date") or "0000-00-00", reverse=True)
+
+    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "count": len(all_items),
+        "events": all_items,
+    }
+    OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    log.info(f"=== Guardado en {OUTPUT_PATH} ({len(all_items)} items) ===")
+
+if __name__ == "__main__":
+    main()
