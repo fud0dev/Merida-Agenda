@@ -163,9 +163,18 @@ def fetch_source(name, url, selectors):
     
     for entry in items[:25]:
         try:
-            # Título
+            # Título inteligente
             title_tag = entry.select_one(title_selectors)
-            title = title_tag.get_text(strip=True) if title_tag else None
+            title = title_tag.get_text(strip=True) if title_tag else ""
+            
+            # Buscar versión extendida en atributos 'title' de los enlaces
+            # Muchas webs cortan el texto visible con "..." pero dejan el completo en el atributo title
+            link_tags = entry.find_all("a", title=True)
+            for link in link_tags:
+                attr_title = link.get("title", "").strip()
+                if len(attr_title) > len(title):
+                    title = attr_title
+                    break
             
             # Enlace
             link_tag = entry.find("a", href=True)
