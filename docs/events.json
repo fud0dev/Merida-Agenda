@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T19:19:22Z",
-  "count": 122,
+  "updated_at": "2026-04-14T20:56:55Z",
+  "count": 133,
   "events": [
     {
       "title": "El Grecolatino devuelve la juventud al Teatro Romano de Mérida con 12.000 alumnos",
@@ -416,6 +416,94 @@
       "date": "2026-04-14",
       "url": "https://merida.es/el-alcalde-resalta-la-importancia-de-la-mum-para-posicionar-a-merida-como-gran-espacio-escenico-y-cultural/",
       "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El del Ciclo de Cine en Versión Original de Cineclub Forumofrece siete películas todos los lunes de abril y mayo",
+      "description": "",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/04/10/el-del-ciclo-de-cine-en-version-original-de-cineclub-forumofrece-siete-peliculas-todos-los-lunes-de-abril-y-mayo/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 11 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/04/07/la-policia-local-intervino-en-11-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 8 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/04/01/la-policia-local-intervino-en-8-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cortes de tráfico debido a la celebración de la Media Maratón y las pruebas de la Milla y 5K Campeonato de España y Popular este fin de semana",
+      "description": "",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/04/09/cortes-de-trafico-debido-a-la-celebracion-de-la-media-maraton-y-las-pruebas-de-la-milla-y-5k-campeonato-de-espana-y-popular-este-fin-de-semana/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Media Maratón y el Campeonato de España se celebran este sábado con el emeritense Jorge González, como gran favorito de la prueba",
+      "description": "",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/04/07/la-media-maraton-y-el-campeonato-de-espana-se-celebran-este-sabado-con-el-emeritense-jorge-gonzalez-como-gran-favorito-de-la-prueba/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Entradas a la venta para el encuentro entre la AD Mérida frente a CD Tenerife de la jornada 32",
+      "description": "",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/04/03/entradas-a-la-venta-para-el-encuentro-entre-la-ad-merida-frente-a-cd-tenerife-de-la-jornada-32/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El CD Josefinas Mérida golpea primero en semifinales y tumba al gran favorito en un abarrotado La Paz",
+      "description": "",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/03/29/el-cd-josefinas-merida-golpea-primero-en-semifinales-y-tumba-al-gran-favorito-en-un-abarrotado-la-paz/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Olimpiada Escolar reúne en la Ciudad Deportiva a 688 deportistas de 19 centros educativos",
+      "description": "",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/03/26/la-olimpiada-escolar-reune-en-la-ciudad-deportiva-a-688-deportistas-de-19-centros-educativos/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida se consolida como motor turístico con casi 64.000 visitantes en Semana Santa y un crecimiento imparable con unas cifras récord que refuerzan su liderazgo turístico",
+      "description": "",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/04/08/merida-se-consolida-como-motor-turistico-con-casi-64-000-visitantes-en-semana-santa-y-un-crecimiento-imparable-con-unas-cifras-record-que-refuerzan-su-liderazgo-turistico/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tren turístico “Al Ándalus” de RENFE hace parada en Mérida",
+      "description": "",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/04/07/el-tren-turistico-al-andalus-de-renfe-hace-parada-en-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
+      "description": "por Mérida Noticias en Eventos 0",
+      "date": "2026-04-14",
+      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
