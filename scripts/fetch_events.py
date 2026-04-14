@@ -190,7 +190,7 @@ SOURCES = [
         "selectors": {
             "item": "article, .article",
             "title": "h2, h3, .title, a",
-            "description": ".lead, .article-excerpt"
+            "description": ".lead, .article-excerpt, .description, p"
         }
     },
     {
@@ -199,7 +199,7 @@ SOURCES = [
         "selectors": {
             "item": "article, .v-card, .news-item",
             "title": "h2, h3, .title",
-            "description": ".lead, .v-content p"
+            "description": ".v-a-sub-t, .v-a-cro-t, .lead, .v-content p"
         }
     },
     {
@@ -208,7 +208,7 @@ SOURCES = [
         "selectors": {
             "item": "article, .post, .entry",
             "title": "h2, h3, .entry-title",
-            "description": ".entry-content p"
+            "description": ".entry-content p, .post-content p"
         }
     },
     {
@@ -217,16 +217,16 @@ SOURCES = [
         "selectors": {
             "item": "article, .post, .td-block-span12, .td-animation-stack-type0",
             "title": "h2, h3, .entry-title",
-            "description": ".td-excerpt"
+            "description": ".td-excerpt, .entry-content p"
         }
     },
     {
         "name": "Ayuntamiento - Noticias",
         "url": "https://merida.es/category/noticias/",
         "selectors": {
-            "item": "article, .post",
-            "title": "h2, h3, .title",
-            "description": ".entry-content p"
+            "item": "article, .post, .et_pb_post",
+            "title": "h2, h3, .entry-title",
+            "description": ".entry-content, .post-content, .entry-summary, p"
         }
     },
     {
@@ -235,7 +235,7 @@ SOURCES = [
         "selectors": {
             "item": "article, .post",
             "title": "h2, h3, .entry-title",
-            "description": ".post-content p, .entry-content p"
+            "description": ".post-content, .entry-content, .entry-summary, p"
         }
     },
     {
@@ -244,7 +244,7 @@ SOURCES = [
         "selectors": {
             "item": "article, .ft-layout-grid-flex__row",
             "title": "h2, h3, .title",
-            "description": ".lead, .description"
+            "description": ".lead, .description, p"
         }
     },
     {
@@ -253,7 +253,7 @@ SOURCES = [
         "selectors": {
             "item": "article, .c-list-article",
             "title": "h2, .c-list-article__title, .title",
-            "description": ".c-list-article__excerpt"
+            "description": ".c-list-article__excerpt, .lead"
         }
     },
     {
@@ -271,7 +271,7 @@ SOURCES = [
         "selectors": {
             "item": "article, .evento, .calendar-list__event, .tribe-events-calendar-list__event",
             "title": "h2, h3, h4, .title, .event-title",
-            "description": ".tribe-events-calendar-list__event-description p"
+            "description": ".tribe-events-calendar-list__event-description p, .entry-content p"
         }
     }
 ]
