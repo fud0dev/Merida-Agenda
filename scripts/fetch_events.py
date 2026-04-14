@@ -18,7 +18,7 @@ import json
 import logging
 import sys
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -64,40 +64,51 @@ def parse_date(raw: str) -> str | None:
     if not raw:
         return None
     
-    formats = [
-        "%Y-%m-%dT%H:%M:%S",
-        "%Y-%m-%dT%H:%M:%SZ",
-        "%Y-%m-%dT%H:%M:%S%z",
-        "%d/%m/%Y",
-        "%d-%m-%Y",
-        "%d de %B de %Y",
-        "%Y-%m-%d",
-    ]
+    # Normalización básica
+    raw_lower = raw.strip().lower()
+    today = datetime.now()
     
+    # Manejo de fechas relativas comunes en noticias
+    if "hoy" in raw_lower or "hace" in raw_lower or "minuto" in raw_lower or "segundo" in raw_lower:
+        return today.strftime("%Y-%m-%d")
+    if "ayer" in raw_lower:
+        return (today - timedelta(days=1)).strftime("%Y-%m-%d")
+
+    # Mapeo de meses en español
     meses = {
         "enero": "01", "febrero": "02", "marzo": "03", "abril": "04",
         "mayo": "05", "junio": "06", "julio": "07", "agosto": "08",
         "septiembre": "09", "octubre": "10", "noviembre": "11", "diciembre": "12",
+        "ene": "01", "feb": "02", "mar": "03", "abr": "04", "may": "05", "jun": "06",
+        "jul": "07", "ago": "08", "sep": "09", "oct": "10", "nov": "11", "dic": "12"
     }
     
-    raw_lower = raw.strip().lower()
+    # Reemplazar meses por números
     for mes, num in meses.items():
         raw_lower = raw_lower.replace(mes, num)
+    
+    # Intentar capturar patrones comunes de fecha (DD/MM/YYYY, DD-MM-YYYY, YYYY-MM-DD)
+    m_iso = re.search(r"(\d{4})-(\d{2})-(\d{2})", raw_lower)
+    if m_iso:
+        return m_iso.group(0)
+        
+    m_es = re.search(r"(\d{1,2})[ /-](\d{2})[ /-](\d{4})", raw_lower)
+    if m_es:
+        return f"{m_es.group(3)}-{m_es.group(2)}-{int(m_es.group(1)):02d}"
 
-    m = re.search(r"(\d{1,2}) de (\d{2}) de (\d{4})", raw_lower)
-    if m:
-        raw_lower = f"{m.group(3)}-{m.group(2)}-{int(m.group(1)):02d}"
-
+    # Intento con strptime para formatos estándar
+    formats = [
+        "%Y-%m-%dT%H:%M:%S",
+        "%d/%m/%Y",
+        "%d-%m-%Y",
+        "%Y-%m-%d"
+    ]
     for fmt in formats:
         try:
-            # Intentar coincidencia parcial para fechas largas
-            match = re.search(r"\d{4}-\d{2}-\d{2}", raw_lower)
-            if match and fmt == "%Y-%m-%d":
-                return match.group(0)
-            
             return datetime.strptime(raw_lower[:10], fmt[:10]).strftime("%Y-%m-%d")
         except:
             pass
+            
     return None
 
 def is_valid_item(item):
@@ -336,23 +347,32 @@ def main():
     all_items = dedup(all_items)
     log.info(f"Tras deduplicar: {len(all_items)}.")
 
-    # Filtro de fecha y ordenación
-    today_str = datetime.now().strftime("%Y-%m-%d")
-    
-    # Solo nos quedamos con noticias de hoy o pasado (según petición del usuario)
-    current_and_past = [item for item in all_items if item.get("date") and item.get("date") <= today_str]
-    
-    # Ordenar por fecha descendente (lo más reciente/HOY arriba)
-    current_and_past.sort(key=lambda x: x.get("date", "0000-00-00"), reverse=True)
+    # Fecha de hoy para comparaciones
+    today_dt = datetime.now()
+    today_str = today_dt.strftime("%Y-%m-%d")
+
+    # Procesar fechas y filtrar
+    processed_items = []
+    for item in all_items:
+        # Si no tiene fecha, asumimos que es de HOY (especialmente para noticias)
+        if not item.get("date"):
+            item["date"] = today_str
+            
+        # Filtro: Solo hoy y pasado (evitamos el ruido de "19 abr" que confundía al usuario)
+        if item["date"] <= today_str:
+            processed_items.append(item)
+
+    # Ordenar por fecha descendente (LO MÁS NUEVO ARRIBA)
+    processed_items.sort(key=lambda x: x.get("date", "0000-00-00"), reverse=True)
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "count": len(current_and_past),
-        "events": current_and_past,
+        "count": len(processed_items),
+        "events": processed_items,
     }
     OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    log.info(f"=== Guardado en {OUTPUT_PATH} ({len(current_and_past)} items) ===")
+    log.info(f"=== Guardado en {OUTPUT_PATH} ({len(processed_items)} items) ===")
 
 if __name__ == "__main__":
     main()
