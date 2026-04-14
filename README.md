@@ -2,7 +2,7 @@
 
 Una plataforma automatizada que centraliza toda la actualidad, cultura y ocio de la ciudad de **Mérida (Extremadura, España)**. El proyecto utiliza técnicas de web scraping para unificar 10 fuentes locales oficiales en una interfaz "Premium" moderna y siempre actualizada.
 
-🔗 **Web en vivo:** [MeridaAgenda](https://fud0dev.github.io/AgendaMerida/)
+Este proyecto forma parte del ecosistema de servicios locales [**Mérida XYZ**](https://meridaxyz.wordpress.com/).
 
 ---
 
