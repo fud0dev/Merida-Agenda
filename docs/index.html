@@ -244,6 +244,8 @@
       font-weight: 700;
       display: block;
       margin: 0.5rem 0;
+      overflow: visible;
+      word-wrap: break-word;
     }
 
     .card-description {
@@ -251,9 +253,12 @@
       color: var(--secondary);
       line-height: 1.5;
       margin-bottom: 0.5rem;
-      display: block;
-      max-height: 6rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
       overflow: hidden;
+      text-overflow: ellipsis;
+      max-height: 6rem;
     }
 
     .card-location {
