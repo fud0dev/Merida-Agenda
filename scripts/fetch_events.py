@@ -129,6 +129,9 @@ def fetch_source(name, url, selectors):
     # Selectores de títulos más comunes
     title_selectors = selectors.get("title", "h1, h2, h3, h4, .title, .entry-title, .event-title")
     
+    # Selectores de descripción más comunes
+    desc_selectors = selectors.get("description", "p, .entry-content p, .entry-summary, .post-content, .td-excerpt, .tribe-events-calendar-list__event-description p")
+    
     for entry in items[:25]:
         try:
             # Título
@@ -152,9 +155,19 @@ def fetch_source(name, url, selectors):
                 raw_date = date_tag.get("datetime") or date_tag.get("content") or date_tag.get_text(strip=True)
                 date = parse_date(raw_date)
 
+            # Descripción (NUEVO)
+            description = ""
+            desc_tag = entry.select_one(desc_selectors)
+            if desc_tag:
+                description = desc_tag.get_text(strip=True)
+                # Limpiamos un poco el texto
+                if len(description) > 300:
+                    description = description[:297] + "..."
+
             if is_valid_item(title, href):
                 results.append({
                     "title": title,
+                    "description": description,
                     "date": date or "",
                     "url": href,
                     "source": name,
@@ -176,7 +189,8 @@ SOURCES = [
         "url": "https://www.elperiodicoextremadura.com/merida/",
         "selectors": {
             "item": "article, .article",
-            "title": "h2, h3, .title, a"
+            "title": "h2, h3, .title, a",
+            "description": ".lead, .article-excerpt"
         }
     },
     {
@@ -184,7 +198,8 @@ SOURCES = [
         "url": "https://www.hoy.es/merida/",
         "selectors": {
             "item": "article, .v-card, .news-item",
-            "title": "h2, h3, .title"
+            "title": "h2, h3, .title",
+            "description": ".lead, .v-content p"
         }
     },
     {
@@ -192,7 +207,8 @@ SOURCES = [
         "url": "https://meridaycomarca.com/",
         "selectors": {
             "item": "article, .post, .entry",
-            "title": "h2, h3, .entry-title"
+            "title": "h2, h3, .entry-title",
+            "description": ".entry-content p"
         }
     },
     {
@@ -200,7 +216,8 @@ SOURCES = [
         "url": "https://www.meridadiario.com/",
         "selectors": {
             "item": "article, .post, .td-block-span12, .td-animation-stack-type0",
-            "title": "h2, h3, .entry-title"
+            "title": "h2, h3, .entry-title",
+            "description": ".td-excerpt"
         }
     },
     {
@@ -208,7 +225,8 @@ SOURCES = [
         "url": "https://merida.es/category/noticias/",
         "selectors": {
             "item": "article, .post",
-            "title": "h2, h3, .title"
+            "title": "h2, h3, .title",
+            "description": ".entry-content p"
         }
     },
     {
@@ -216,7 +234,8 @@ SOURCES = [
         "url": "https://meridanoticias.com/",
         "selectors": {
             "item": "article, .post",
-            "title": "h2, h3, .entry-title"
+            "title": "h2, h3, .entry-title",
+            "description": ".post-content p, .entry-content p"
         }
     },
     {
@@ -224,7 +243,8 @@ SOURCES = [
         "url": "https://www.lacronicabadajoz.com/merida/",
         "selectors": {
             "item": "article, .ft-layout-grid-flex__row",
-            "title": "h2, h3, .title"
+            "title": "h2, h3, .title",
+            "description": ".lead, .description"
         }
     },
     {
@@ -232,7 +252,8 @@ SOURCES = [
         "url": "https://cadenaser.com/ser-merida/",
         "selectors": {
             "item": "article, .c-list-article",
-            "title": "h2, .c-list-article__title, .title"
+            "title": "h2, .c-list-article__title, .title",
+            "description": ".c-list-article__excerpt"
         }
     },
     {
@@ -240,7 +261,8 @@ SOURCES = [
         "url": "https://www.ondacero.es/emisoras/extremadura/merida/",
         "selectors": {
             "item": "article, .teaser",
-            "title": "h2, .teaser__title, .title"
+            "title": "h2, .teaser__title, .title",
+            "description": ".teaser__text, .teaser__lead"
         }
     },
     {
@@ -248,7 +270,8 @@ SOURCES = [
         "url": "https://merida.es/agenda/",
         "selectors": {
             "item": "article, .evento, .calendar-list__event, .tribe-events-calendar-list__event",
-            "title": "h2, h3, h4, .title, .event-title"
+            "title": "h2, h3, h4, .title, .event-title",
+            "description": ".tribe-events-calendar-list__event-description p"
         }
     }
 ]
