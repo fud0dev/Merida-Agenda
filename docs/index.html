@@ -222,6 +222,19 @@
       margin: 0.5rem 0;
     }
 
+    .card-description {
+      font-size: 0.9rem;
+      color: var(--secondary);
+      line-height: 1.5;
+      margin-bottom: 0.5rem;
+      /* Limit to 4 lines for layout balance but allow expansion if needed */
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
     .card-location {
       font-size: 0.85rem;
       color: var(--secondary);
@@ -387,6 +400,7 @@
         <span class="card-source-tag">${escHtml(ev.source || 'Mérida')}</span>
       </div>
       <h2 class="card-title">${escHtml(ev.title)}</h2>
+      ${ev.description ? `<p class="card-description">${escHtml(ev.description)}</p>` : ''}
       <div class="card-location">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
         <span>${escHtml(ev.location || 'Mérida')}</span>
