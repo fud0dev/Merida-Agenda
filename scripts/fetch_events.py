@@ -100,12 +100,30 @@ def parse_date(raw: str) -> str | None:
             pass
     return None
 
-def is_valid_item(title, url):
-    """Filtros básicos para evitar ruido."""
+def is_valid_item(item):
+    """Filtros para evitar ruido (categorías, botones, etc)."""
+    title = item.get("title", "")
+    url = item.get("url", "")
+    desc = item.get("description", "")
+    date = item.get("date", "")
+    
     if not title or not url:
         return False
-    if len(title) < 5:
+    
+    # Ignorar títulos que son solo categorías o muy genéricos
+    junk_titles = ["Mérida", "Extremadura", "Opinión", "Deportes", "Cultura", "Vídeos", "Local", "Nacional", "Internacional"]
+    if title.strip() in junk_titles:
         return False
+        
+    # Si es muy corto, probablemente sea un título de sección
+    if len(title) < 12:
+        return False
+        
+    # Si no tiene fecha NI tiene descripción, comprobamos que el título sea largo
+    # (las noticias reales suelen tener títulos descriptivos largos)
+    if not date and not desc and len(title) < 25:
+        return False
+        
     return True
 
 # ──────────────────────────────────────────────
@@ -130,7 +148,7 @@ def fetch_source(name, url, selectors):
     title_selectors = selectors.get("title", "h1, h2, h3, h4, .title, .entry-title, .event-title")
     
     # Selectores de descripción más comunes
-    desc_selectors = selectors.get("description", "p, .entry-content p, .entry-summary, .post-content, .td-excerpt, .tribe-events-calendar-list__event-description p")
+    desc_selectors = selectors.get("description", "p, .entry-content p, .entry-summary, .post-content, .td-excerpt, .summary")
     
     for entry in items[:25]:
         try:
@@ -155,24 +173,31 @@ def fetch_source(name, url, selectors):
                 raw_date = date_tag.get("datetime") or date_tag.get("content") or date_tag.get_text(strip=True)
                 date = parse_date(raw_date)
 
-            # Descripción (NUEVO)
+            # Descripción
             description = ""
             desc_tag = entry.select_one(desc_selectors)
             if desc_tag:
-                description = desc_tag.get_text(strip=True)
-                # Limpiamos un poco el texto
+                # Si el selector devolvió TODO el contenido, tomamos el primer párrafo o recortamos
+                description = desc_tag.get_text(" ", strip=True)
+                # Limpiamos ruido común
+                for noise in ["Siguenos en", "Sigue leyendo", "Comparte esta", "Leer Más"]:
+                    if noise in description:
+                        description = description.split(noise)[0].strip()
+                
                 if len(description) > 300:
                     description = description[:297] + "..."
 
-            if is_valid_item(title, href):
-                results.append({
-                    "title": title,
-                    "description": description,
-                    "date": date or "",
-                    "url": href,
-                    "source": name,
-                    "location": "Mérida"
-                })
+            item_data = {
+                "title": title,
+                "description": description,
+                "date": date or "",
+                "url": href,
+                "source": name,
+                "location": "Mérida"
+            }
+
+            if is_valid_item(item_data):
+                results.append(item_data)
         except Exception as e:
             log.debug(f"Error procesando item en {name}: {e}")
             
@@ -180,7 +205,7 @@ def fetch_source(name, url, selectors):
     return results
 
 # ──────────────────────────────────────────────
-# Configuración de Fuentes
+# Fuentes y Selectores
 # ──────────────────────────────────────────────
 
 SOURCES = [
@@ -188,18 +213,18 @@ SOURCES = [
         "name": "El Periódico Extremadura",
         "url": "https://www.elperiodicoextremadura.com/merida/",
         "selectors": {
-            "item": "article, .article",
-            "title": "h2, h3, .title, a",
-            "description": ".lead, .article-excerpt, .description, p"
+            "item": "article",
+            "title": "h2, h3, .title",
+            "description": ".lead, .article-excerpt, .description, .ep-article-description"
         }
     },
     {
         "name": "Hoy.es",
         "url": "https://www.hoy.es/merida/",
         "selectors": {
-            "item": "article, .v-card, .news-item",
-            "title": "h2, h3, .title",
-            "description": ".v-a-sub-t, .v-a-cro-t, .lead, .v-content p"
+            "item": "article, .v-card",
+            "title": "h2, h3, .title, .v-a-t",
+            "description": ".v-a-sub-t, .v-a-cro-t, .summary, .lead, .v-content p"
         }
     },
     {
