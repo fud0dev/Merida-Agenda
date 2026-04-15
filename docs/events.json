@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-15T13:28:17Z",
-  "count": 132,
+  "updated_at": "2026-04-15T15:06:32Z",
+  "count": 131,
   "events": [
     {
       "title": "Mirandilla honra a Santa Eulalia con procesión, besamanos y tres días de cultos",
@@ -19,6 +19,22 @@
       "location": "Mérida"
     },
     {
+      "title": "Tres personas resultan intoxicadas por humo en el incendio de una vivienda en Mérida",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/tres-intoxicadas-humo-incendio-vivienda-merida-129137049.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida, referente del turismo accesible en España junto a otras ciudades Patrimonio de la Humanidad",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/merida-referente-turismo-accesible-espana-129135823.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
       "title": "Mérida fulmina la acampada libre en Proserpina con sanciones",
       "description": "",
       "date": "2026-04-15",
@@ -27,7 +43,7 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida desviará el tráfico en la avenida José Fernández López por obras en la red de saneamiento",
+      "title": "Mérida desvía el tráfico en la avenida José Fernández López por obras en la red de saneamiento",
       "description": "",
       "date": "2026-04-15",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/14/merida-trafico-fernandez-lopez-obras-129098255.html",
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-04-15",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/13/jazz-blues-haran-gozar-1-600-escolares-concierto-merida-129058844.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La fábrica china de cátodos acelera su desembarco en Mérida con la compra de 467.000 metros cuadrados",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/13/fabrica-china-catodos-acelera-desembarco-merida-compra-467-000-metros-cuadrados-129042865.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Luis Pastor, Queen Forever, el homenaje a Raphael, Fabiolo y Ben-Hur, platos fuertes de la primavera del María Luisa en Mérida",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/13/amplia-programacion-cultural-primavera-teatro-maria-luisa-2026-129039221.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -143,14 +143,6 @@
       "description": "",
       "date": "2026-04-15",
       "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/03/31/fotogaleria-mejores-mosaicos-romanos-merida-128637889.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fotogalería | Los parques de Mérida, una ruta para disfrutar",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/03/31/fotogaleria-parques-merida-ruta-disfrutar-mayores-pequenos-128637142.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -515,10 +507,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida activará dos proyectos formativos para facilitar el acceso laboral a una treintena de mujeres",
+      "title": "La Junta abre el plazo para alegaciones a la planta de nitrógeno de Jinhong Gas en Mérida y da un paso de gigante",
+      "description": "Fiscalidad en la capital extremeña",
+      "date": "2026-04-15",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/14/merida-propone-bajar-ibi-merida-bonificar-herencias-129077253.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "La MUM cumple 10 años en Mérida con 300 profesionales y 18 conciertos para impulsar la música",
       "description": "Jornadas del 15 al 17 de abril",
       "date": "2026-04-15",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/09/mum-conciertos-musica-cultura-jornadas-merida-128915356.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida activará dos proyectos formativos para facilitar el acceso laboral a una treintena de mujeres",
+      "description": "Iniciativa del Gobierno municipal",
+      "date": "2026-04-15",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/09/merida-impulsara-proyectos-empleo-trabajo-mujeres-128902159.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -639,14 +647,6 @@
       "description": "Mérida",
       "date": "2026-04-15",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/05/fotogaleria-merida-despide-semana-santa-128762400.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida reúne en abril a Ada Salas, Cristina Almeida y Chloé Bird en las II Jornadas 'Mujer y Cultura'",
-      "description": "Cultura e igualdad",
-      "date": "2026-04-15",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/05/merida-abril-ada-salas-almeida-128756057.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -911,14 +911,6 @@
       "description": "",
       "date": "2026-04-15",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/nuevo-centro-social-zona-paz-estara-funcionamiento-finales-este-2022_2022051962867e7ecd15240001016bf3.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Badajoz aprobará en el pleno del jueves la cesión de la parcela para el IES de Cerro Gordo a la Junta",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/ayuntamiento-badajoz-aprobara-pleno-jueves-cesion-parcela-ies-cerro-gordo-junta_2026041569df45bf9e87c91dbff52c2a.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
