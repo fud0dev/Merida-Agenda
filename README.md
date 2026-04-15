@@ -1,53 +1,33 @@
-# 📅 Agenda Mérida — Noticias y Eventos en Tiempo Real
+# 📅 AgendaMérida · Mérida XYZ
 
-Una plataforma automatizada que centraliza toda la actualidad, cultura y ocio de la ciudad de **Mérida (Extremadura, España)**. El proyecto utiliza técnicas de web scraping para unificar 10 fuentes locales oficiales en una interfaz "Premium" moderna y siempre actualizada.
+> **Portal de actualidad y eventos de la Ciudad Eterna.**
 
-Este proyecto forma parte del ecosistema de servicios locales [**Mérida XYZ**](https://meridaxyz.wordpress.com/).
+**AgendaMérida** es un portal informativo premium diseñado para centralizar las noticias y la agenda cultural de Mérida (Badajoz) en un único panel de control digital. El proyecto forma parte del ecosistema **Mérida XYZ**, enfocado en la utilidad pública y la automatización de datos.
 
----
+## 🚀 Características Principales
 
-## ✨ Características Destacadas
+- **Sincronización Automática**: Recopilación diaria de titulares de las principales fuentes de noticias locales y medios institucionales.
+- **Diseño Editorial Premium**: Experiencia de usuario minimalista y tipografía cuidada (Playfair Display & Inter) diseñada para una lectura sin distracciones.
+- **Mobile First**: Optimizado para dispositivos móviles, garantizando acceso rápido a la información desde cualquier lugar.
+- **Hub Mérida XYZ**: Integrado con el ecosistema global de utilidades ciudadanas.
 
-- **Multifuente Inteligente**: Agregador de noticias de 10 medios locales (Ayuntamiento, Hoy.es, El Periódico, Cadena SER, etc.).
-- **Diseño Premium Light**: Una interfaz minimalista basada en tipografía clásica y elegancia moderna, con el escudo oficial de la ciudad.
-- **Información Enriquecida**: No solo verás titulares; el sistema extrae entradillas y detalles de cada evento para que estés informado de un vistazo.
-- **Deduplicación Automática**: Un avanzado motor de filtrado evita que veas la misma noticia repetida si aparece en varios periódicos.
-- **Alta Frecuencia**: Gracias a GitHub Actions, la información se refresca **cada 2 horas**.
+## 🛠️ Tecnologías Utilizadas
 
----
+- **Scraper Engine**: Python + BeautifulSoup para la extracción y limpieza de datos.
+- **Frontend Layer**: HTML5 semántico, CSS3 avanzado (Vanilla) y JavaScript para la interactividad.
+- **Automation Pipeline**: GitHub Actions para la ejecución programada del scraper y el despliegue automático en GitHub Pages.
 
-## 🛠️ Cómo funciona el proyecto
+## 📊 Fuentes de Datos
 
-El proyecto se divide en tres piezas clave:
-
-1.  **El Extractor (`scripts/fetch_events.py`)**: Un script en Python que recorre las 10 webs, analiza su HTML mediante `BeautifulSoup`, limpia los datos y los guarda en un archivo JSON.
-2.  **La Automatización (`.github/workflows/events.yml`)**: Un "mayordomo" virtual en la nube de GitHub que se despierta cada 120 minutos, ejecuta el extractor y actualiza la web sin intervención humana.
-3.  **La Interfaz (`docs/index.html`)**: Una Single Page Application (SPA) ultra rápida que lee el archivo generado y presenta la información con animaciones suaves y un buscador en tiempo real.
+La información se obtiene de portales de noticias públicos y canales institucionales locales, procesando únicamente los titulares y enlaces para redirigir al lector a la fuente original de la noticia.
 
 ---
 
-## 📅 Fuentes Integradas
+## 🏛️ Sobre Mérida XYZ
 
-El sistema vigila constantemente:
-- Ayuntamiento de Mérida (Noticias y Agenda)
-- El Periódico Extremadura
-- Diario HOY
-- Mérida Diario / Mérida Noticias / Mérida y Comarca
-- La Crónica de Badajoz
-- Cadena SER y Onda Cero Mérida
+Este proyecto es una pieza independiente del hub digital [Mérida XYZ](https://meridaxyz.wordpress.com/), dedicado a dotar a la ciudad de herramientas modernas de coste nulo para el usuario final.
 
 ---
 
-## 🚀 Despliegue propio
-
-Si quieres tener tu propia versión:
-1. Haz un **Fork** de este repositorio.
-2. Sube los archivos a tu cuenta.
-3. Activa **GitHub Pages** en `Settings > Pages` apuntando a la rama `main` y la carpeta `/docs`.
-4. ¡Listo! El sistema empezará a trabajar solo.
-
----
-
-## ⚖️ Aviso Legal e Intención
-Este proyecto ha sido desarrollado por **[fud0dev](https://github.com/fud0dev)** con fines **estrictamente educativos** y de difusión cultural. Respeta los derechos de autor de las fuentes originales, sirviendo únicamente como un agregador de enlaces e información pública.
-
+> [!NOTE]
+> **Aviso Legal y Educativo**: Este proyecto ha sido desarrollado exclusivamente con fines de aprendizaje y educativos. Si eres el propietario de alguna fuente de datos o consideras que existe cualquier incidencia técnica o de derechos, por favor contacta conmigo a través de mi perfil de GitHub o los canales de contacto del Hub.
