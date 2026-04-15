@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-15T02:40:10Z",
+  "updated_at": "2026-04-15T06:01:04Z",
   "count": 136,
   "events": [
+    {
+      "title": "Mirandilla honra a Santa Eulalia con procesión, besamanos y tres días de cultos",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/mirandilla-honra-santa-eulalia-procesion-besamanos-cultos-129102082.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El Grecolatino devuelve la juventud al Teatro Romano de Mérida con 12.000 alumnos",
       "description": "",
@@ -11,18 +19,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Efecto Pasillo, antes de su concierto en Mérida: \"Esa forma tan soberbia y tan descarada que tiene Trump de ejercer el poder no me transmite nada bueno\"",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/14/efecto-pasillo-concierto-merida-trump-129078254.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Mérida desviará el tráfico en la avenida José Fernández López por obras en la red de saneamiento",
       "description": "",
       "date": "2026-04-15",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/14/merida-trafico-fernandez-lopez-obras-129098255.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Efecto Pasillo, antes de su concierto en Mérida: \"Esa forma tan soberbia y tan descarada que tiene Trump de ejercer el poder no me transmite nada bueno\"",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/14/efecto-pasillo-concierto-merida-trump-129078254.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-04-15",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/13/ofertas-empleo-merida-hosteleria-industria-128905372.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La fuente que respira por Mérida",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/13/fuente-respira-turismo-cultura-plaza-merida-129015706.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -819,10 +819,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativo matinal Extremadura (14/04/26)",
+      "title": "Informativo matinal Extremadura (15/04/26)",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativo-matinal-extremadura-140426_2026041469ddd0ea6ebf330007f93451.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativo-matinal-extremadura-150426_2026041569df226c8a98c40007812aa9.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
