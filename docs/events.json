@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-15T17:06:29Z",
-  "count": 120,
+  "updated_at": "2026-04-15T19:20:58Z",
+  "count": 129,
   "events": [
+    {
+      "title": "El Acueducto de los Milagros albergará en Mérida el poder solidario de la hamburguesa",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/acueducto-milagros-albergara-poder-solidario-hamburguesas-merida-129143312.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Tres personas resultan intoxicadas por humo en el incendio de una vivienda en Mérida",
       "description": "",
@@ -11,18 +19,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida fulmina la acampada libre en Proserpina con sanciones",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/merida-fulmina-acampada-libre-proserpina-sanciones-129130718.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Mérida, referente del turismo accesible en España junto a otras ciudades Patrimonio de la Humanidad",
       "description": "",
       "date": "2026-04-15",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/merida-referente-turismo-accesible-espana-129135823.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida fulmina la acampada libre en Proserpina con sanciones",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/merida-fulmina-acampada-libre-proserpina-sanciones-129130718.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El jazz y el blues harán gozar a 1.600 escolares en Mérida",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/13/jazz-blues-haran-gozar-1-600-escolares-concierto-merida-129058844.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Vídeo | Abatimiento en Calamonte por el robo en el colegio San José",
       "description": "",
       "date": "2026-04-15",
@@ -143,14 +143,6 @@
       "description": "",
       "date": "2026-04-15",
       "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/03/31/fotogaleria-mejores-mosaicos-romanos-merida-128637889.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fotogalería | Los parques de Mérida, una ruta para disfrutar",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/03/31/fotogaleria-parques-merida-ruta-disfrutar-mayores-pequenos-128637142.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -315,6 +307,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El Consejo de Gobierno aprueba 3 millones de euros en ayudas para apoyar la transformación digital de 260 PYMES",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
       "title": "La Junta de Extremadura Lanza una Ciber-Guía para Ayudar a las Empresas a Mejorar su Seguridad Digital",
       "description": "La Nueva Ciber-Guía de Supervivencia Empresarial La Junta de Extremadura, a través de su Dirección General de Digitalización Regional, ha presentado la Ciber-Guía de...",
       "date": "2026-04-15",
@@ -424,6 +424,86 @@
       "date": "2026-04-15",
       "url": "https://merida.es/el-palacio-de-congresos-de-merida-acoge-el-23-de-abril-el-concierto-la-orquesta-swings-un-proyecto-didactico-y-participativo-que-acercara-el-jazz-a-1-600-escolares/",
       "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida centra la atención del balonmano juvenil extremeño con la disputa de la fase final autonómica",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/04/15/merida-centra-la-atencion-del-balonmano-juvenil-extremeno-con-la-disputa-de-la-fase-final-autonomica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 11 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/04/07/la-policia-local-intervino-en-11-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 8 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/04/01/la-policia-local-intervino-en-8-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cortes de tráfico debido a la celebración de la Media Maratón y las pruebas de la Milla y 5K Campeonato de España y Popular este fin de semana",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/04/09/cortes-de-trafico-debido-a-la-celebracion-de-la-media-maraton-y-las-pruebas-de-la-milla-y-5k-campeonato-de-espana-y-popular-este-fin-de-semana/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Media Maratón y el Campeonato de España se celebran este sábado con el emeritense Jorge González, como gran favorito de la prueba",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/04/07/la-media-maraton-y-el-campeonato-de-espana-se-celebran-este-sabado-con-el-emeritense-jorge-gonzalez-como-gran-favorito-de-la-prueba/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Entradas a la venta para el encuentro entre la AD Mérida frente a CD Tenerife de la jornada 32",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/04/03/entradas-a-la-venta-para-el-encuentro-entre-la-ad-merida-frente-a-cd-tenerife-de-la-jornada-32/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El CD Josefinas Mérida golpea primero en semifinales y tumba al gran favorito en un abarrotado La Paz",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/03/29/el-cd-josefinas-merida-golpea-primero-en-semifinales-y-tumba-al-gran-favorito-en-un-abarrotado-la-paz/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abierto el plazo de inscripción para el Concurso de Ambientación Romana para establecimientos con motivo de Emerita Lvdica",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/04/13/abierto-el-plazo-de-inscripcion-para-el-concurso-de-ambientacion-romana-para-establecimientos-con-motivo-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida se consolida como motor turístico con casi 64.000 visitantes en Semana Santa y un crecimiento imparable con unas cifras récord que refuerzan su liderazgo turístico",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/04/08/merida-se-consolida-como-motor-turistico-con-casi-64-000-visitantes-en-semana-santa-y-un-crecimiento-imparable-con-unas-cifras-record-que-refuerzan-su-liderazgo-turistico/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
+      "description": "por Mérida Noticias en Eventos 0",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -839,14 +919,6 @@
       "description": "Del 15 al 17 de abril de 2026, Mérida acogerá la décima edición de las Jornadas Profesionales de la Música en Extremadura. Un espacio de referencia donde todos los agentes implicados en la industria musical de Extremadura tendrán la oportunidad de poner en valor el talento creativo de diferentes ...",
       "date": "2026-04-15",
       "url": "https://merida.es/agenda/x-jornadas-profesionales-de-la-musica-en-extremadura/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ciclo Conferencias Liceo: «Imagen y Memoria. Fotografías de la Mérida que fue» por José Luis de la Barrera",
-      "description": "El Liceo de Mérida organiza un nuevo ciclo de conferencias sobre historia y arqueología todos los miércoles, del 8 de abril al 17 junio de 2026, con un total de diez ponencias. En la charlas se abordará el patrimonio emeritense pero también habrá otras no tan enfocadas en los yacimientos de la ci...",
-      "date": "2026-04-15",
-      "url": "https://merida.es/agenda/ciclo-conferencias-liceo-imagen-y-memoria-fotografias-de-la-merida-que-fue-por-jose-luis-de-la-barrera/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
