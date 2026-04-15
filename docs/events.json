@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-15T11:01:26Z",
-  "count": 136,
+  "updated_at": "2026-04-15T13:28:17Z",
+  "count": 132,
   "events": [
     {
       "title": "Mirandilla honra a Santa Eulalia con procesión, besamanos y tres días de cultos",
@@ -15,6 +15,14 @@
       "description": "",
       "date": "2026-04-15",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/14/teatro-romano-merida-festival-grecolatino-12-000-estudiantes-129097808.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida fulmina la acampada libre en Proserpina con sanciones",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/merida-fulmina-acampada-libre-proserpina-sanciones-129130718.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Ofertas de empleo en Mérida: comercio, hostelería e industria buscan personal para cubrir vacantes",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/13/ofertas-empleo-merida-hosteleria-industria-128905372.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Vídeo | Abatimiento en Calamonte por el robo en el colegio San José",
       "description": "",
       "date": "2026-04-15",
@@ -155,8 +155,16 @@
       "location": "Mérida"
     },
     {
+      "title": "Los bomberos de Mérida actúan para sofocar un incendio en una vivienda de Ronda de los Eméritos",
+      "description": "Al parecer no hay nadie en el interior del piso y se ha producido por el incendio de una vitrocerámica",
+      "date": "2026-04-15",
+      "url": "https://www.hoy.es/merida/bomberos-merida-actuan-sofocar-incendio-vivienda-ronda-20260415150543-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "El Ayuntamiento de Mérida detecta un aumento de acampadas no autorizadas junto al embalse de Proserpina",
-      "description": "Osuna firma un bando en la que se recuerda la prohibición y que la Policía Local puede imponer sanciones",
+      "description": "15 abr 2026 12:17",
       "date": "2026-04-15",
       "url": "https://www.hoy.es/merida/ayuntamiento-merida-detecta-aumento-acampadas-autorizadas-junto-20260415121740-nt.html",
       "source": "Hoy.es",
@@ -172,7 +180,7 @@
     },
     {
       "title": "Mérida acoge desde mañana y hasta el fin de semana una muestra de hamburguesas gourmet",
-      "description": "15 abr 2026 12:16",
+      "description": "15 abr 2026 14:24",
       "date": "2026-04-15",
       "url": "https://www.hoy.es/merida/merida-acoge-manana-fin-semana-muestra-hamburguesas-20260415121634-nt.html",
       "source": "Hoy.es",
@@ -191,14 +199,6 @@
       "description": "14 abr 2026 07:19",
       "date": "2026-04-15",
       "url": "https://www.hoy.es/merida/empresa-fabrica-catodos-expaciomerida-comprara-terreno-dias-20260414184027-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Aqualia revisa los casi 550 hidrantes urbanos instalados en la capital extremeña",
-      "description": "13 abr 2026 07:23",
-      "date": "2026-04-15",
-      "url": "https://www.hoy.es/merida/aqualia-revisa-550-hidrantes-urbanos-instalados-capital-20260413145529-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -239,6 +239,14 @@
       "description": "13 abr 2026 11:23",
       "date": "2026-04-15",
       "url": "https://www.hoy.es/merida/almoril-cumplen-anos-botica-crean-perfumes-propios-20260412134649-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Aqualia revisa los casi 550 hidrantes urbanos instalados en la capital extremeña",
+      "description": "13 abr 2026 07:23",
+      "date": "2026-04-15",
+      "url": "https://www.hoy.es/merida/aqualia-revisa-550-hidrantes-urbanos-instalados-capital-20260413145529-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -307,15 +315,7 @@
       "location": "Mérida"
     },
     {
-      "title": "El Festival de Teatro Grecolatino trae a Mérida la próxima semana a 12.000 estudiantes y 600 profesores",
-      "description": "10 abr 2026 12:44",
-      "date": "2026-04-15",
-      "url": "https://www.hoy.es/merida/festival-teatro-grecolatino-trae-merida-proxima-semana-20260410122556-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de 12.000 estudiantes se dan cita en el Teatro Romano durante la XXVIII edición del Festival Juvenil Europeo de Teatro Grecolatino",
+      "title": "El Consejo de Gobierno aprueba 3 millones de euros en ayudas para apoyar la transformación digital de 260 PYMES",
       "description": "",
       "date": "2026-04-15",
       "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
@@ -352,6 +352,14 @@
       "date": "2026-04-15",
       "url": "https://www.meridadiario.com/2026/04/15/extremadura-amplia-el-plazo-para-la-solicitud-unica-de-la-pac-hasta-el-15-de-mayo/",
       "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Rodríguez Osuna visita el negocio emeritense `La Botica de los Perfumes´ con motivo de su 15º aniversario",
+      "description": "Abr 15, 2026 | Comercio y Emprendimiento",
+      "date": "2026-04-15",
+      "url": "https://merida.es/rodriguez-osuna-visita-el-negocio-emeritense-la-botica-de-los-perfumes-con-motivo-de-su-15o-aniversario/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -427,14 +435,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Abierto el plazo de inscripción para el Concurso de Ambientación Romana para establecimientos con motivo de Emerita Lvdica",
-      "description": "Abr 13, 2026 | Turismo",
-      "date": "2026-04-15",
-      "url": "https://merida.es/abierto-el-plazo-de-inscripcion-para-el-concurso-de-ambientacion-romana-para-establecimientos-con-motivo-de-emerita-lvdica/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "Mérida centra la atención del balonmano juvenil extremeño con la disputa de la fase final autonómica",
       "description": "",
       "date": "2026-04-15",
@@ -491,6 +491,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Abierto el plazo de inscripción para el Concurso de Ambientación Romana para establecimientos con motivo de Emerita Lvdica",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://meridanoticias.com/2026/04/13/abierto-el-plazo-de-inscripcion-para-el-concurso-de-ambientacion-romana-para-establecimientos-con-motivo-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "Mérida se consolida como motor turístico con casi 64.000 visitantes en Semana Santa y un crecimiento imparable con unas cifras récord que refuerzan su liderazgo turístico",
       "description": "",
       "date": "2026-04-15",
@@ -507,26 +515,10 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta abre el plazo para alegaciones a la planta de nitrógeno de Jinhong Gas en Mérida y da un paso de gigante",
-      "description": "Fiscalidad en la capital extremeña",
-      "date": "2026-04-15",
-      "url": "https://www.lacronicabadajoz.com/extremadura/2026/04/15/extremadura-despide-frio-recupera-pulso-129116601.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "La MUM cumple 10 años en Mérida con 300 profesionales y 18 conciertos para impulsar la música",
+      "title": "Mérida activará dos proyectos formativos para facilitar el acceso laboral a una treintena de mujeres",
       "description": "Jornadas del 15 al 17 de abril",
       "date": "2026-04-15",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/09/mum-conciertos-musica-cultura-jornadas-merida-128915356.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida reúne en abril a Ada Salas, Cristina Almeida y Chloé Bird en las II Jornadas 'Mujer y Cultura'",
-      "description": "Iniciativa del Gobierno municipal",
-      "date": "2026-04-15",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/09/merida-impulsara-proyectos-empleo-trabajo-mujeres-128902159.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -651,11 +643,19 @@
       "location": "Mérida"
     },
     {
-      "title": "Domingo de Resurrección en Mérida: Hoy comienza todo",
-      "description": "Semana Santa",
+      "title": "Mérida reúne en abril a Ada Salas, Cristina Almeida y Chloé Bird en las II Jornadas 'Mujer y Cultura'",
+      "description": "Cultura e igualdad",
       "date": "2026-04-15",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/05/domingo-resurreccion-merida-hoy-comienza-128756030.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/05/merida-abril-ada-salas-almeida-128756057.html",
       "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Trabajadoras de Limpieza de los hospitales de Mérida y Tierra de Barros retoman las protestas",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://cadenaser.com/extremadura/2026/04/15/trabajadoras-de-limpieza-de-los-hospitales-de-merida-y-tierra-de-barros-retoman-las-protestas-ser-merida/",
+      "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
     {
@@ -675,10 +675,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El emeritense Jorge González revilida título en la Media Maratón de Mérida",
+      "title": "El sistema de tratamiento de agua de osmosis inversa se estrena en Lobón",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://cadenaser.com/extremadura/2026/04/13/el-emeritense-jorge-gonzalez-revilida-titulo-en-la-media-maraton-de-merida-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/04/15/el-sistema-de-tratamiento-de-agua-de-osmosis-inversa-se-estrena-en-lobon-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La MUM inaugura en Mérida con showcases de Chloé Bird y ADMIRE",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://cadenaser.com/extremadura/2026/04/15/la-mum-inaugura-en-merida-con-showcases-de-chloe-bird-y-admire-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -699,18 +707,18 @@
       "location": "Mérida"
     },
     {
-      "title": "\"Nouvelle Vague\" inicia el nuevo ciclo de cine en versión original de Mérida",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://cadenaser.com/extremadura/2026/04/13/nouvelle-vague-inicia-el-nuevo-ciclo-de-cine-en-version-original-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El Colegio San Luis de Mérida saca las aulas a la calle en una jornada de actividades didácticas",
       "description": "",
       "date": "2026-04-15",
       "url": "https://cadenaser.com/extremadura/2026/04/10/el-colegio-san-luis-de-merida-saca-las-aulas-a-la-calle-en-una-jornada-de-actividades-didacticas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los jóvenes y el teatro inundarán Mérida la próxima semana",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://cadenaser.com/extremadura/2026/04/10/los-jovenes-y-el-teatro-inundaran-merida-la-proxima-semana-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -731,18 +739,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Calamonte celebra la fiesta del libro 'Entre tapas'",
+      "title": "Las familias del CEIP Los Ángeles denuncian el deterioro del centro y exigen una reforma integral del tejado",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://cadenaser.com/extremadura/2026/04/09/calamonte-celebra-la-fiesta-del-libro-entre-tapas-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/04/15/las-familias-del-ceip-los-angeles-denuncian-el-deterioro-del-centro-y-exigen-una-reforma-integral-del-tejado-ser-norte-de-extremadura/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
     {
-      "title": "El Chef Pepe Valadés cocina para el comedor social de Mérida dentro de 'Social Kitchen'",
+      "title": "Cáceres aplica un tratamiento innovador para proteger sus palmeras del picudo rojo",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://cadenaser.com/extremadura/2026/04/07/el-chef-pepe-valades-cocina-para-el-comedor-social-de-merida-dentro-de-social-kitchen-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/04/15/caceres-aplica-un-tratamiento-innovador-para-proteger-sus-palmeras-del-picudo-rojo-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremúsika reunirá a 60 bandas en Cáceres con 14.000 abonos ya vendidos para el puente de mayo",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://cadenaser.com/extremadura/2026/04/15/extremusika-reunira-a-60-bandas-en-caceres-con-14000-abonos-ya-vendidos-para-el-puente-de-mayo-ser-caceres/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -787,46 +803,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Presentan nuevos cuentos ilustrados para fomentar la igualdad de género en la infancia",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://cadenaser.com/extremadura/2026/04/14/presentan-nuevos-cuentos-ilustrados-para-fomentar-la-igualdad-de-genero-en-la-infancia-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cáceres 2031 recibe el informe de expertos para reforzar su candidatura a Capital Europea de la Cultura",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://cadenaser.com/extremadura/2026/04/14/caceres-2031-recibe-el-informe-de-expertos-para-reforzar-su-candidatura-a-capital-europea-de-la-cultura-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cáceres celebra este fin de semana el XVI Festival de las Aves con rutas, talleres y observación urbana",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://cadenaser.com/extremadura/2026/04/14/caceres-celebra-este-fin-de-semana-el-xvi-festival-de-las-aves-con-rutas-talleres-y-observacion-urbana-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cáceres reunirá a grandes autores en la XXVI Feria del Libro con un programa reforzado y más participación editorial",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://cadenaser.com/extremadura/2026/04/14/caceres-reunira-a-grandes-autores-en-la-xxvi-feria-del-libro-con-un-programa-reforzado-y-mas-participacion-editorial-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Plasencia rendirá homenaje a los represaliados que construyeron el Parque de los Pinos",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://cadenaser.com/extremadura/2026/04/14/plasencia-rendira-homenaje-a-los-represaliados-que-construyeron-el-parque-de-los-pinos-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Las Jornadas Profesionales de la Música cumplen diez años impulsando el talento musical en Extremadura y su proyección internacional",
       "description": "",
       "date": "2026-04-15",
@@ -859,26 +835,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Extremadura (14/04/26)",
+      "title": "Noticias mediodía Extremadura (15/04/26)",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-140426_2026041469de2fe4fe9e1b0007566e53.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-150426_2026041569df7f878a98c40007812c8d.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía locales (14/04/26)",
+      "title": "Noticias mediodía locales (15/04/26)",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-locales-140426_2026041469de2f739a4db0e49d41dd3e.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-locales-150426_2026041569df7ef233e6e200077d8231.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Conocemos los objetivos de la Asociación Española Contra en Cáncer en Mérida con su nueva presidenta Mercedes Landín",
+      "title": "La III Primavera de Leyenda Hurdana ofrecerá diferentes actividades en Pinofranqueado, Riomalo de Abajo y Casar de Palomero",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/conocemos-objetivos-asociacion-espanola-cancer-merida-nueva-presidenta-mercedes-landin_2026040969d79870c155b0e47a2c78d1.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/iii-primavera-leyenda-hurdana-ofrecera-diferentes-actividades-pinofranqueado-riomalo-abajo-casar-palomero_2026041569df7ae92496b0e4e1a8183c.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -891,10 +867,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Vives Emplea Saludable pone en marcha un taller gratuito para aprender a destacar en procesos de selección de empleo",
+      "title": "La extremeña Vanessa Pámpano presenta \"Calcinación\" la nueva película de Luis Navarrete que llega a los cines el 17 de abril",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/vives-emplea-saludable-pone-marcha-taller-gratuito-aprender-destacar-procesos-seleccion-empleo_2026040869d646c40d58810007383b7c.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/extremena-vanessa-pampano-presenta-calcinacion-nueva-pelicula-luis-navarrete-que-llega-cines-17-abril_2026041569df76d133f5b0e40931c872.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Extremadura (15/04/2026)",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-15042026_2026041569df7c288a98c40007812c69.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Noticias mediodía locales (14/04/26)",
+      "description": "",
+      "date": "2026-04-15",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-locales-140426_2026041469de2f739a4db0e49d41dd3e.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -915,30 +907,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (10/04/26)",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-100426_2026041069d8e6c70d5881000738430e.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Noticias mediodía Mérida (09/04/26)",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-090426_2026040969d79708f391850007f49d31.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Mérida (09/04/2026)",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-09042026_2026040969d7932ec155b0e44b2c78d1.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El nuevo centro social de la zona de La Paz estará en funcionamiento a finales de este 2022",
       "description": "",
       "date": "2026-04-15",
@@ -947,10 +915,10 @@
       "location": "Mérida"
     },
     {
-      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
+      "title": "El Ayuntamiento de Badajoz aprobará en el pleno del jueves la cesión de la parcela para el IES de Cerro Gordo a la Junta",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/ayuntamiento-badajoz-aprobara-pleno-jueves-cesion-parcela-ies-cerro-gordo-junta_2026041569df45bf9e87c91dbff52c2a.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
