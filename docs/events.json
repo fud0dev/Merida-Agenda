@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-16T17:17:35Z",
-  "count": 130,
+  "updated_at": "2026-04-16T19:18:15Z",
+  "count": 128,
   "events": [
     {
       "title": "La fábrica de cátodos logra la licencia definitiva y arrancará ya las obras en Mérida",
@@ -15,6 +15,14 @@
       "description": "",
       "date": "2026-04-16",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/merida-accidente-avioneta-revienta-rueda-129174932.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La barriada Centro-San Albín de Mérida celebra del 20 al 26 de abril su II Semana Cultural",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/barriada-san-albin-merida-semana-cultural-129192139.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Mirandilla honra a Santa Eulalia con procesión, besamanos y tres días de cultos",
-      "description": "",
-      "date": "2026-04-16",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/mirandilla-honra-santa-eulalia-procesion-besamanos-cultos-129102082.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Vídeo | Abatimiento en Calamonte por el robo en el colegio San José",
       "description": "",
       "date": "2026-04-16",
@@ -155,8 +155,16 @@
       "location": "Mérida"
     },
     {
+      "title": "La Feria de Formación Profesional de Mérida atrae a decenas de alumnos por la oferta formativa y su salida laboral",
+      "description": "En Ifeme, ha habido demostraciones prácticas de materias que, en gran medida, tienen una alta demanda por parte de empresas y empleabilidad",
+      "date": "2026-04-16",
+      "url": "https://www.hoy.es/merida/feria-formacion-profesional-merida-atrae-decenas-alumnos-20260416134716-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Los bomberos de Mérida actúan para sofocar un incendio en una vivienda de Ronda de los Eméritos",
-      "description": "No había nadie en el interior del piso y tres personas resultaron intoxicadas leves por humo",
+      "description": "15 abr 2026 18:33",
       "date": "2026-04-16",
       "url": "https://www.hoy.es/merida/bomberos-merida-actuan-sofocar-incendio-vivienda-ronda-20260415150543-nt.html",
       "source": "Hoy.es",
@@ -195,18 +203,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El Ayuntamiento de Mérida detecta un aumento de acampadas no autorizadas junto al embalse de Proserpina",
-      "description": "15 abr 2026 12:17",
-      "date": "2026-04-16",
-      "url": "https://www.hoy.es/merida/ayuntamiento-merida-detecta-aumento-acampadas-autorizadas-junto-20260415121740-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Mérida acoge desde mañana y hasta el fin de semana una muestra de hamburguesas gourmet",
       "description": "16 abr 2026 15:14",
       "date": "2026-04-16",
       "url": "https://www.hoy.es/merida/merida-acoge-manana-fin-semana-muestra-hamburguesas-20260415121634-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida detecta un aumento de acampadas no autorizadas junto al embalse de Proserpina",
+      "description": "15 abr 2026 12:17",
+      "date": "2026-04-16",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-detecta-aumento-acampadas-autorizadas-junto-20260415121740-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -303,14 +311,6 @@
       "description": "12 abr 2026 10:10",
       "date": "2026-04-16",
       "url": "https://www.hoy.es/merida/media-maraton-merida-20260412101011-ga.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El ciclo de cine en versión original emite siete películas en dos meses",
-      "description": "12 abr 2026 02:00",
-      "date": "2026-04-16",
-      "url": "https://www.hoy.es/merida/ciclo-cine-version-original-emite-siete-peliculas-20260412074318-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -723,6 +723,22 @@
       "location": "Mérida"
     },
     {
+      "title": "Elecciones en Extremadura, en directo: el PP gana pero necesitará los votos de Vox y el PSOE sufre un batacazo histórico",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://cadenaser.com/nacional/2025/12/21/ultima-hora-de-las-elecciones-en-extremadura-la-poblacion-se-prepara-para-votar-en-unos-comicios-que-abren-un-ciclo-electoral-cadena-ser/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los detalles del acuerdo en Extremadura: Vox tendrá dos consejerías, una con rango de vicepresidencia, y competencias en Familia, Desregulación y Agricultura",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://cadenaser.com/extremadura/2026/04/16/pp-y-vox-anuncian-un-acuerdo-de-gobierno-en-extremadura-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "La Reina Sofía recibirá a AFAD Recuerda Extremadura en su 25 aniversario",
       "description": "",
       "date": "2026-04-16",
@@ -759,22 +775,6 @@
       "description": "",
       "date": "2026-04-16",
       "url": "https://cadenaser.com/extremadura/2026/04/15/el-robo-de-aceitunas-en-la-provincia-de-badajoz-baja-un-30-con-respecto-a-la-campana-anterior-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nace la plataforma \"Salvemos Miajadas\" contra la planta de biometano proyectada en la localidad",
-      "description": "",
-      "date": "2026-04-16",
-      "url": "https://cadenaser.com/extremadura/2026/04/15/nace-la-plataforma-salvemos-miajadas-contra-la-planta-de-biometano-proyectada-en-la-localidad-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cetarsa incrementa el 6% las compras de tabaco",
-      "description": "",
-      "date": "2026-04-16",
-      "url": "https://cadenaser.com/extremadura/2026/04/15/cetarsa-incrementa-el-6-las-compras-de-tabaco-ser-norte-de-extremadura/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -911,22 +911,6 @@
       "description": "Del jueves 16 al domingo 19 de abril llega al Parque del Acueducto de Los Milagros el evento 'The Masters Burgers Mérida' con una gran selección de las mejores hamburguesas para disfrutar de nuevos sabores y experiencias. Habrá opciones sin gluten y postres. El horario será el jueves de 19:00 a 0...",
       "date": "2026-04-16",
       "url": "https://merida.es/agenda/the-masters-burgers-merida/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Gala Premios Cofrades",
-      "description": "Ya se conocen las instituciones y personalidades que este año recogerán los Premios Cofrades 2026 que organiza el Ayuntamiento de Mérida y la Cadena COPE. Unos galardones de prestigio, únicos en la región, y que reconocen y aplauden a aquellas personas, organizaciones e instituciones que trabajan...",
-      "date": "2026-04-16",
-      "url": "https://merida.es/agenda/gala-premios-cofrades-2026/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cine Filmoteca: «A Magnificent Life»",
-      "description": "Título original: Marcel et Monsieur Pagnol País: Francia Año: 2025 Duración: 90’ Dirección: Sylvain Chomet Guion: Sylvain Chomet. Novela: Marcel Pagnol Género: Animación. Drama Reparto: - Sinopsis: Entre los años 30 y 50, un joven curioso de Marsella transformó su amor por la palabra en un legado...",
-      "date": "2026-04-16",
-      "url": "https://merida.es/agenda/cine-filmoteca-a-magnificent-life/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
