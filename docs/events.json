@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-16T06:03:08Z",
-  "count": 124,
+  "updated_at": "2026-04-16T09:22:21Z",
+  "count": 125,
   "events": [
     {
       "title": "La Semana Santa de Mérida dispara su impacto digital: 154.000 interacciones en 2026",
@@ -163,6 +163,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La Botica celebra que haya «democratizado» el acceso a los perfumes desde Mérida",
+      "description": "16 abr 2026 08:59",
+      "date": "2026-04-16",
+      "url": "https://www.hoy.es/merida/botica-celebra-democratizado-acceso-perfumes-merida-20260416192806-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "El Ayuntamiento de Mérida detecta un aumento de acampadas no autorizadas junto al embalse de Proserpina",
       "description": "15 abr 2026 12:17",
       "date": "2026-04-16",
@@ -195,14 +203,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La empresa de la fábrica de cátodos en ExpacioMérida comprará el terreno en unos días",
-      "description": "14 abr 2026 07:19",
-      "date": "2026-04-16",
-      "url": "https://www.hoy.es/merida/empresa-fabrica-catodos-expaciomerida-comprara-terreno-dias-20260414184027-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Por Mérida pide rebajar el 50% el ICIO por rehabilitar viviendas en zonas de baja renta",
       "description": "15 abr 2026 02:00",
       "date": "2026-04-16",
@@ -215,6 +215,14 @@
       "description": "15 abr 2026 02:00",
       "date": "2026-04-16",
       "url": "https://www.hoy.es/merida/pleno-aprueba-forma-definitiva-presupuestos-ano-20260415090726-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La empresa de la fábrica de cátodos en ExpacioMérida comprará el terreno en unos días",
+      "description": "14 abr 2026 07:19",
+      "date": "2026-04-16",
+      "url": "https://www.hoy.es/merida/empresa-fabrica-catodos-expaciomerida-comprara-terreno-dias-20260414184027-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -303,14 +311,6 @@
       "description": "10 abr 2026 13:56",
       "date": "2026-04-16",
       "url": "https://www.hoy.es/merida/ciclo-cine-version-original-cine-club-forum-20260410132440-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida alcanza los 61.349 habitantes, 636 personas más que hace un año",
-      "description": "10 abr 2026 13:09",
-      "date": "2026-04-16",
-      "url": "https://www.hoy.es/merida/merida-alcanza-61349-habitantes-636-personas-ano-20260410130942-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -563,7 +563,7 @@
       "location": "Mérida"
     },
     {
-      "title": "El sistema de tratamiento de agua de osmosis inversa se estrena en Lobón",
+      "title": "El sistema de tratamiento de agua por osmosis inversa se estrena en Lobón",
       "description": "",
       "date": "2026-04-16",
       "url": "https://cadenaser.com/extremadura/2026/04/15/el-sistema-de-tratamiento-de-agua-de-osmosis-inversa-se-estrena-en-lobon-ser-merida/",
@@ -795,10 +795,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El nuevo centro social de la zona de La Paz estará en funcionamiento a finales de este 2022",
+      "title": "El Ayuntamiento de Badajoz aprobará en el pleno del jueves la cesión de la parcela para el IES de Cerro Gordo a la Junta",
       "description": "",
       "date": "2026-04-16",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/nuevo-centro-social-zona-paz-estara-funcionamiento-finales-este-2022_2022051962867e7ecd15240001016bf3.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/ayuntamiento-badajoz-aprobara-pleno-jueves-cesion-parcela-ies-cerro-gordo-junta_2026041569df45bf9e87c91dbff52c2a.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
