@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-16T15:27:49Z",
-  "count": 131,
+  "updated_at": "2026-04-16T17:17:35Z",
+  "count": 130,
   "events": [
+    {
+      "title": "La fábrica de cátodos logra la licencia definitiva y arrancará ya las obras en Mérida",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/fabrica-catodos-china-licencia-definitiva-podra-iniciar-obras-merida-129186986.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Revienta la rueda delantera de una avioneta cerca de Mérida y el piloto sale por su propio pie",
       "description": "",
@@ -11,18 +19,18 @@
       "location": "Mérida"
     },
     {
-      "title": "La historia del chino Pepe, el comerciante de Mérida que se hace fotos con todo el barrio",
-      "description": "",
-      "date": "2026-04-16",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/historia-chino-pepe-tienda-fotos-todo-barrio-merida-129169545.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "La Feria de FP de Mérida y comarca muestra más de 80 enseñanzas de 18 familias profesionales, con 3.500 alumnos",
       "description": "",
       "date": "2026-04-16",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/feria-fp-merida-comarca-empleo-129182587.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La historia del chino Pepe, el comerciante de Mérida que se hace fotos con todo el barrio",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/historia-chino-pepe-tienda-fotos-todo-barrio-merida-129169545.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-04-16",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/mirandilla-honra-santa-eulalia-procesion-besamanos-cultos-129102082.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Grecolatino devuelve la juventud al Teatro Romano de Mérida con 12.000 alumnos",
-      "description": "",
-      "date": "2026-04-16",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/14/teatro-romano-merida-festival-grecolatino-12-000-estudiantes-129097808.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -172,7 +172,7 @@
     },
     {
       "title": "Alumnos del instituto emeritense Albarregas logran el premio al mejor logro técnico de un concurso de la Agencia Espacial Europea",
-      "description": "16 abr 2026 14:12",
+      "description": "16 abr 2026 17:44",
       "date": "2026-04-16",
       "url": "https://www.hoy.es/merida/alumnos-instituto-emeritense-albarregas-disenan-mini-satelite-20260416144908-nt.html",
       "source": "Hoy.es",
@@ -911,14 +911,6 @@
       "description": "Del jueves 16 al domingo 19 de abril llega al Parque del Acueducto de Los Milagros el evento 'The Masters Burgers Mérida' con una gran selección de las mejores hamburguesas para disfrutar de nuevos sabores y experiencias. Habrá opciones sin gluten y postres. El horario será el jueves de 19:00 a 0...",
       "date": "2026-04-16",
       "url": "https://merida.es/agenda/the-masters-burgers-merida/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ciclo de Conferencias MNAR Grandes personajes de la Antigüedad II: «Viriato. Un caudillo lusitano»",
-      "description": "“Grandes personajes de la Antigüedad” es un encuentro semanal que pretende aproximar, a los participantes en las conferencias, a las más diversas personalidades que hicieron la Historia Antigua, desde oriente a occidente, tanto hombres como mujeres, generalmente silenciadas, a las que damos visib...",
-      "date": "2026-04-16",
-      "url": "https://merida.es/agenda/ciclo-de-conferencias-mnar-grandes-personajes-de-la-antiguedad-ii-viriato/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
