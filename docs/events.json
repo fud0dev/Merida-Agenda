@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-16T13:49:48Z",
-  "count": 130,
+  "updated_at": "2026-04-16T15:27:49Z",
+  "count": 131,
   "events": [
     {
       "title": "Revienta la rueda delantera de una avioneta cerca de Mérida y el piloto sale por su propio pie",
@@ -15,6 +15,14 @@
       "description": "",
       "date": "2026-04-16",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/historia-chino-pepe-tienda-fotos-todo-barrio-merida-129169545.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Feria de FP de Mérida y comarca muestra más de 80 enseñanzas de 18 familias profesionales, con 3.500 alumnos",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/feria-fp-merida-comarca-empleo-129182587.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-04-16",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/14/teatro-romano-merida-festival-grecolatino-12-000-estudiantes-129097808.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida desvía el tráfico en la avenida José Fernández López por obras en la red de saneamiento",
-      "description": "",
-      "date": "2026-04-16",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/14/merida-trafico-fernandez-lopez-obras-129098255.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -347,6 +347,22 @@
       "location": "Mérida"
     },
     {
+      "title": "La barriada Centro-San Albín celebrará del 20 al 26 de abril la segunda edición de la Semana Cultural",
+      "description": "Abr 16, 2026 | Participación Ciudadana",
+      "date": "2026-04-16",
+      "url": "https://merida.es/la-barriada-centro-san-albin-celebrara-del-20-al-26-de-abril-la-segunda-edicion-de-la-semana-cultural/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento concede la licencia definitiva para el mega proyecto de la fábrica de cátodos",
+      "description": "Abr 16, 2026 | Ciudad",
+      "date": "2026-04-16",
+      "url": "https://merida.es/el-ayuntamiento-concede-la-licencia-definitiva-para-el-mega-proyecto-de-la-fabrica-de-catodos/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "Rodríguez Osuna subraya la importancia de la Formación Profesional y la orientación educativa para la mejora de las oportunidades laborales de la población juvenil",
       "description": "Abr 16, 2026 | Educación , Formación",
       "date": "2026-04-16",
@@ -411,22 +427,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Pleno Municipal aprueba, para el año 2026, unos presupuestos históricos que sitúan por primera vez a la ciudad con deuda financiera cero",
-      "description": "Abr 14, 2026 | Pleno Municipal",
-      "date": "2026-04-16",
-      "url": "https://merida.es/el-pleno-municipal-aprueba-para-el-ano-2026-unos-presupuestos-historicos-que-situan-por-primera-vez-a-la-ciudad-con-deuda-financiera-cero/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local intervino en 10 incidentes de seguridad vial la semana pasada",
-      "description": "Abr 14, 2026 | Seguridad Ciudadana",
-      "date": "2026-04-16",
-      "url": "https://merida.es/la-policia-local-intervino-en-10-incidentes-de-seguridad-vial-la-semana-pasada/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "El Mérida vuelve a llevar ilusión al hospital de Mérida",
       "description": "",
       "date": "2026-04-16",
@@ -439,6 +439,14 @@
       "description": "",
       "date": "2026-04-16",
       "url": "https://meridanoticias.com/2026/04/16/comunicado-oficial-tras-el-primer-ano-de-bia-en-la-propiedad-del-club/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 10 incidentes de seguridad vial la semana pasada",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://meridanoticias.com/2026/04/14/la-policia-local-intervino-en-10-incidentes-de-seguridad-vial-la-semana-pasada/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -499,10 +507,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Por Mérida propone bajar el IBI en Mérida al 0,5% y bonificar herencias y rehabilitación en barrios vulnerables",
-      "description": "Sector turístico",
+      "title": "La Junta abre el plazo para alegaciones a la planta de nitrógeno de Jinhong Gas en Mérida y da un paso de gigante",
+      "description": "Educación",
       "date": "2026-04-16",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/15/merida-referente-turismo-accesible-espana-129135825.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/16/feria-fp-merida-comarca-empleo-129182592.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Por Mérida propone bajar el IBI en Mérida al 0,5% y bonificar herencias y rehabilitación en barrios vulnerables",
+      "description": "Virtuoso violonchelista croata",
+      "date": "2026-04-16",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/16/hauser-cancela-concierto-merida-problemas-salud-129167664.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -615,14 +631,6 @@
       "description": "El incensario",
       "date": "2026-04-16",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/06/merida-esencia-semana-santa-unica-128778633.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Dos conductores 'pillados' sin carné y tres positivos en pruebas de alcoholemia en Mérida",
-      "description": "Seguridad vial",
-      "date": "2026-04-16",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/06/conductores-pillados-carne-tres-positivos-128778630.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
