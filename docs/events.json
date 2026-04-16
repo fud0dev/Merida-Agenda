@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-16T09:22:21Z",
-  "count": 125,
+  "updated_at": "2026-04-16T11:05:25Z",
+  "count": 130,
   "events": [
+    {
+      "title": "Jarro de agua fría para Stone&Music: HAUSER cancela en Mérida su esperado concierto por problemas de salud",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/hauser-cancela-concierto-merida-problemas-salud-129167661.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "La Semana Santa de Mérida dispara su impacto digital: 154.000 interacciones en 2026",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-04-16",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/14/merida-propone-bajar-ibi-merida-bonificar-herencias-129077254.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una desafortunada visita al Teatro Romano de Mérida",
-      "description": "",
-      "date": "2026-04-16",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/14/desafortunada-visita-teatro-romano-merida-129074407.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -315,6 +315,38 @@
       "location": "Mérida"
     },
     {
+      "title": "Mérida centra la atención del balonmano juvenil extremeño con la disputa de la fase final autonómica",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las ‘proptech’ crecen gracias al auge del mercado inmobiliario español",
+      "description": "Incidentes viales en Mérida\nLa Policía Local de Mérida ha presentado su informe sobre la siniestralidad vial correspondiente a la semana del 9 al 15...",
+      "date": "2026-04-16",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Tres vecinos atendidos tras un incendio en un piso de Mérida",
+      "description": "La rápida actuación de los equipos de emergencia permitió sofocar el fuego en pocos minutos y evitar que el humo se extendiera a otras...",
+      "date": "2026-04-16",
+      "url": "https://www.meridadiario.com/2026/04/16/tres-vecinos-atendidos-tras-un-incendio-en-un-piso-de-merida/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo hoy 16 de Abril de 2026 en Mérida según AEMET",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://www.meridadiario.com/2026/04/16/el-tiempo-hoy-16-de-abril-de-2026-en-merida-segun-aemet/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Rodríguez Osuna visita el negocio emeritense `La Botica de los Perfumes´ con motivo de su 15º aniversario",
       "description": "Abr 15, 2026 | Comercio y Emprendimiento",
       "date": "2026-04-16",
@@ -395,11 +427,75 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta abre el plazo para alegaciones a la planta de nitrógeno de Jinhong Gas en Mérida y da un paso de gigante",
-      "description": "Fiscalidad en la capital extremeña",
+      "title": "Comunicado oficial tras el primer año de BIA en la propiedad del club",
+      "description": "por Mérida Noticias en Deportes 0",
       "date": "2026-04-16",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/14/merida-propone-bajar-ibi-merida-bonificar-herencias-129077253.html",
-      "source": "La Crónica de Badajoz",
+      "url": "https://meridanoticias.com/2026/04/16/comunicado-oficial-tras-el-primer-ano-de-bia-en-la-propiedad-del-club/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 11 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://meridanoticias.com/2026/04/07/la-policia-local-intervino-en-11-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 8 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://meridanoticias.com/2026/04/01/la-policia-local-intervino-en-8-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cortes de tráfico debido a la celebración de la Media Maratón y las pruebas de la Milla y 5K Campeonato de España y Popular este fin de semana",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://meridanoticias.com/2026/04/09/cortes-de-trafico-debido-a-la-celebracion-de-la-media-maraton-y-las-pruebas-de-la-milla-y-5k-campeonato-de-espana-y-popular-este-fin-de-semana/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Media Maratón y el Campeonato de España se celebran este sábado con el emeritense Jorge González, como gran favorito de la prueba",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://meridanoticias.com/2026/04/07/la-media-maraton-y-el-campeonato-de-espana-se-celebran-este-sabado-con-el-emeritense-jorge-gonzalez-como-gran-favorito-de-la-prueba/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Entradas a la venta para el encuentro entre la AD Mérida frente a CD Tenerife de la jornada 32",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://meridanoticias.com/2026/04/03/entradas-a-la-venta-para-el-encuentro-entre-la-ad-merida-frente-a-cd-tenerife-de-la-jornada-32/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abierto el plazo de inscripción para el Concurso de Ambientación Romana para establecimientos con motivo de Emerita Lvdica",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://meridanoticias.com/2026/04/13/abierto-el-plazo-de-inscripcion-para-el-concurso-de-ambientacion-romana-para-establecimientos-con-motivo-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida se consolida como motor turístico con casi 64.000 visitantes en Semana Santa y un crecimiento imparable con unas cifras récord que refuerzan su liderazgo turístico",
+      "description": "",
+      "date": "2026-04-16",
+      "url": "https://meridanoticias.com/2026/04/08/merida-se-consolida-como-motor-turistico-con-casi-64-000-visitantes-en-semana-santa-y-un-crecimiento-imparable-con-unas-cifras-record-que-refuerzan-su-liderazgo-turistico/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
+      "description": "por Mérida Noticias en Eventos 0",
+      "date": "2026-04-16",
+      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -527,14 +623,6 @@
       "description": "Domingo de Pascua",
       "date": "2026-04-16",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/05/merida-despide-semana-santa-jubilo-128762420.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fotogalería | Mérida despide su Semana Santa con el júbilo del Resucitado",
-      "description": "Mérida",
-      "date": "2026-04-16",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/05/fotogaleria-merida-despide-semana-santa-128762400.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -843,42 +931,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El Consejo de Gobierno aprueba 3 millones de euros en ayudas para apoyar la transformación digital de 260 PYMES",
+      "title": "Tejedor denuncia el estancamiento del Colegio de Farmacéuticos de Madrid",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura Lanza una Ciber-Guía para Ayudar a las Empresas a Mejorar su Seguridad Digital",
-      "description": "La Nueva Ciber-Guía de Supervivencia Empresarial La Junta de Extremadura, a través de su Dirección General de Digitalización Regional, ha presentado la Ciber-Guía de...",
-      "date": "2026-04-15",
-      "url": "https://www.meridadiario.com/2026/04/15/la-junta-de-extremadura-lanza-una-ciber-guia-para-ayudar-a-las-empresas-a-mejorar-su-seguridad-digital/",
+      "url": "https://www.meridadiario.com/2026/04/15/tejedor-denuncia-el-estancamiento-del-colegio-de-farmaceuticos-de-madrid/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "El tiempo en Mérida hoy, 15 de Abril de 2026",
+      "title": "El Alcalde de Mérida prohíbe las acampadas no autorizadas en Proserpina para salvaguardar el entorno natural",
       "description": "",
       "date": "2026-04-15",
-      "url": "https://www.meridadiario.com/2026/04/15/el-tiempo-en-merida-hoy-15-de-abril-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El SES adjudica un nuevo contrato de transporte para el Banco de Sangre de Extremadura por 5,15 millones de euros",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.meridadiario.com/2026/04/15/el-ses-adjudica-un-nuevo-contrato-de-transporte-para-el-banco-de-sangre-de-extremadura-por-515-millones-de-euros/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Extremadura amplía el plazo para la solicitud única de la PAC hasta el 15 de mayo",
-      "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.meridadiario.com/2026/04/15/extremadura-amplia-el-plazo-para-la-solicitud-unica-de-la-pac-hasta-el-15-de-mayo/",
+      "url": "https://www.meridadiario.com/2026/04/15/el-alcalde-de-merida-prohibe-las-acampadas-no-autorizadas-en-proserpina-para-salvaguardar-el-entorno-natural/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -939,30 +1003,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta de Extremadura refuerza su apoyo a la juventud en el 40º aniversario del CJEX",
-      "description": "",
-      "date": "2026-04-10",
-      "url": "https://www.meridadiario.com/2026/04/10/la-junta-de-extremadura-refuerza-su-apoyo-a-la-juventud-en-el-40o-aniversario-del-cjex/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cuatro escolares de Mérida son premiados por su compromiso ambiental en el certamen de Aqualia",
-      "description": "",
-      "date": "2026-04-09",
-      "url": "https://www.meridadiario.com/2026/04/09/cuatro-escolares-de-merida-son-premiados-por-su-compromiso-ambiental-en-el-certamen-de-aqualia/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Avances en el colectivo senior: dos años después del protocolo de la Banca",
-      "description": "Incidentes viales en Mérida\nLa Policía Local de Mérida ha presentado su informe sobre la siniestralidad vial correspondiente a la semana del 9 al 15...",
-      "date": "2026-04-08",
-      "url": "https://www.meridadiario.com/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Exposición «Impasse» de Gustavo Fuentetaja",
       "description": "“Impasse” presenta una serie de obras abstractas realizadas mediante trazos rápidos y espontáneos, con una fuerte carga de materia e impasto, donde el color y la geometría construyen composiciones de gran intensidad visual. A través de una pintura viva y directa, el artista busca transmitir emoci...",
       "date": "2026-03-26",
@@ -987,18 +1027,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El Sergas y Novartis presentan un innovador proyecto con IA para el diagnóstico de la esclerosis múltiple",
-      "description": "El Servicio Gallego de Salud (Sergas) y Novartis han lanzado ‘ImaginEM Galicia’, un proyecto pionero que utiliza Inteligencia Artificial para mejorar el diagnóstico y...",
-      "date": "2025-03-04",
-      "url": "https://www.meridadiario.com/2025/03/04/el-sergas-y-novartis-presentan-un-innovador-proyecto-con-ia-para-el-diagnostico-de-la-esclerosis-multiple/",
+      "title": "El SES reporta nuevos contagios de fiebre del Nilo Occidental en Extremadura",
+      "description": "El SES reporta más casos de fiebre del Nilo Occidental en ExtremaduraEl Servicio Extremeño de Salud (SES) ha confirmado la presencia de dos nuevos...",
+      "date": "2025-10-21",
+      "url": "https://www.meridadiario.com/2025/10/21/el-ses-reporta-nuevos-contagios-de-fiebre-del-nilo-occidental-en-extremadura/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "El Ayuntamiento convocará en las próximas semanas las ayudas municipales de apoyo a deportistas y clubes",
-      "description": "El Alcalde, Antonio Rodríguez Osuna, ha recibido hoy a varios deportistas emeritenses que han cosechado éxitos en sus respectivas disciplinas. Entre ellos, Alejandro García Rodríguez,...",
-      "date": "2021-08-02",
-      "url": "https://www.meridadiario.com/2021/08/02/el-ayuntamiento-convocara-en-las-proximas-semanas-las-ayudas-municipales-de-apoyo-a-deportistas-y-clubes/",
+      "title": "La Universidad Alfonso X el Sabio lanza una guía para el uso de la IA generativa en la enseñanza",
+      "description": "La Universidad Alfonso X el Sabio (UAX) ha presentado una nueva guía interactiva diseñada para ayudar a los profesores a integrar la IA Generativa...",
+      "date": "2024-07-22",
+      "url": "https://www.meridadiario.com/2024/07/22/la-universidad-alfonso-x-el-sabio-lanza-una-guia-para-el-uso-de-la-ia-generativa-en-la-ensenanza/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
