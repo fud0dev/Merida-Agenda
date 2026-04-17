@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-17T10:58:14Z",
-  "count": 135,
+  "updated_at": "2026-04-17T13:23:42Z",
+  "count": 138,
   "events": [
+    {
+      "title": "De padres a hijos durante 176 años: la popular carnicería Carmona de Mérida se muda para dar un vuelco al negocio",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/17/de-padres-hijos-durante-176-anos-popular-carniceria-carmona-merida-cambio-uibicacion-reforma-establecimiento-129213249.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Más de tres años de demora por parte de los tribunales rebajan en Mérida una condena por explotación sexual",
       "description": "",
@@ -83,10 +91,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Tres personas resultan intoxicadas por humo en el incendio de una vivienda en Mérida",
+      "title": "Vídeo | Carmona se muda en Mérida: así cambia la popular carnicería familiar tras 176 años de historia",
       "description": "",
       "date": "2026-04-17",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/tres-intoxicadas-humo-incendio-vivienda-merida-129137049.html",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Carmona, la carnicería de los famosos filetes de ternera en Mérida, se traslada para iniciar una nueva etapa",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/04/17/carmona-carniceria-famosos-filetes-ternera-se-muda-129219285.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -94,7 +110,7 @@
       "title": "Vídeo | Abatimiento en Calamonte por el robo en el colegio San José",
       "description": "",
       "date": "2026-04-17",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/04/10/video-abatimiento-calamonte-robo-colegio-128957520.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -139,22 +155,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Fotogalería | Los mejores mosaicos de Mérida",
-      "description": "",
-      "date": "2026-04-17",
-      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/03/31/fotogaleria-mejores-mosaicos-romanos-merida-128637889.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fotogalería | Los parques de Mérida, una ruta para disfrutar",
-      "description": "",
-      "date": "2026-04-17",
-      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/03/31/fotogaleria-parques-merida-ruta-disfrutar-mayores-pequenos-128637142.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "La Feria de Formación Profesional de Mérida atrae a decenas de alumnos por la oferta formativa y su salida laboral",
       "description": "En Ifeme, ha habido demostraciones prácticas de materias que, en gran medida, tienen una alta demanda por parte de empresas y empleabilidad",
       "date": "2026-04-17",
@@ -172,7 +172,7 @@
     },
     {
       "title": "La asociación vecinal de San Albín ultima su segunda Semana Cultural a partir del lunes próximo en Mérida",
-      "description": "17 abr 2026 11:38",
+      "description": "17 abr 2026 13:21",
       "date": "2026-04-17",
       "url": "https://www.hoy.es/merida/asociacion-vecinal-san-albin-ultima-segunda-semana-20260417094149-nt.html",
       "source": "Hoy.es",
@@ -188,7 +188,7 @@
     },
     {
       "title": "Santa Eulalia visita Mirandilla en una salida extraordinaria de fe en la patrona de Mérida",
-      "description": "17 abr 2026 12:16",
+      "description": "17 abr 2026 14:56",
       "date": "2026-04-17",
       "url": "https://www.hoy.es/merida/santa-eulalia-visita-mirandilla-salida-extraordinaria-patrona-20260417121600-nt.html",
       "source": "Hoy.es",
@@ -199,6 +199,14 @@
       "description": "16 abr 2026 14:26",
       "date": "2026-04-17",
       "url": "https://www.hoy.es/merida/piloto-sale-ileso-tras-sufrir-accidente-avioneta-20260416130516-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La final de la Copa del Rey llena otra vez Mérida y sus hoteles",
+      "description": "17 abr 2026 14:02",
+      "date": "2026-04-17",
+      "url": "https://www.hoy.es/merida/final-copa-rey-llena-vez-merida-hoteles-20260417140248-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -307,11 +315,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Los Almoril cumplen 15 años con su Botica y crean perfumes propios para Mérida",
-      "description": "13 abr 2026 11:23",
+      "title": "La fábrica de Cátodos de Hunan Yuneng materializa la compraventa de la parcela en ExpacioMérida",
+      "description": "",
       "date": "2026-04-17",
-      "url": "https://www.hoy.es/merida/almoril-cumplen-anos-botica-crean-perfumes-propios-20260412134649-nt.html",
-      "source": "Hoy.es",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
@@ -344,6 +352,14 @@
       "date": "2026-04-17",
       "url": "https://www.meridadiario.com/2026/04/17/la-junta-de-extremadura-amplia-el-plazo-para-la-solicitud-unica-de-la-pac-hasta-el-31-de-mayo-de-2026/",
       "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida impulsa Forum Vestis Emeritense para fomentar la reutilización de indumentaria romana en Emerita Lvdica",
+      "description": "Abr 17, 2026 | Turismo",
+      "date": "2026-04-17",
+      "url": "https://merida.es/el-ayuntamiento-de-merida-impulsa-forum-vestis-emeritense-para-fomentar-la-reutilizacion-de-indumentaria-romana-en-emerita-lvdica/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -419,14 +435,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Teatro María Luisa acoge este jueves la Gala de Premios Cofrades, referentes en la región como reconocimiento a quienes hacen posible la Semana Santa",
-      "description": "Abr 14, 2026 | Noticias",
-      "date": "2026-04-17",
-      "url": "https://merida.es/el-teatro-maria-luisa-acoge-este-jueves-la-gala-de-premios-cofrades-referentes-en-la-region-como-reconocimiento-a-quienes-hacen-posible-la-semana-santa/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "El Mérida vuelve a llevar ilusión al hospital de Mérida",
       "description": "",
       "date": "2026-04-17",
@@ -439,6 +447,14 @@
       "description": "",
       "date": "2026-04-17",
       "url": "https://meridanoticias.com/2026/04/16/comunicado-oficial-tras-el-primer-ano-de-bia-en-la-propiedad-del-club/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida centra la atención del balonmano juvenil extremeño con la disputa de la fase final autonómica",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/04/15/merida-centra-la-atencion-del-balonmano-juvenil-extremeno-con-la-disputa-de-la-fase-final-autonomica/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -635,6 +651,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Tranquilidad y sin incidentes, tónica  en el inicio del proceso de regularización de migrantes en Extremadura",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://cadenaser.com/extremadura/2026/04/17/tranquilidad-y-sin-incidentes-tonica-en-el-inicio-del-proceso-de-regularizacion-de-migrantes-en-extremadura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El Ayuntamiento de Mérida concede la licencia definitiva a la fábrica de cátodos de Hunan Yuneng",
       "description": "",
       "date": "2026-04-17",
@@ -647,14 +671,6 @@
       "description": "",
       "date": "2026-04-17",
       "url": "https://cadenaser.com/extremadura/2026/04/15/trabajadoras-de-limpieza-de-los-hospitales-de-merida-y-tierra-de-barros-retoman-las-protestas-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Prohibidas las acampadas no autorizadas en Proserpina",
-      "description": "",
-      "date": "2026-04-17",
-      "url": "https://cadenaser.com/extremadura/2026/04/15/prohibidas-las-acampadas-no-autorizadas-en-proserpina-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -723,6 +739,30 @@
       "location": "Mérida"
     },
     {
+      "title": "Nueva regularización de migrantes: impacto local y papel clave de Cáritas en Plasencia",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://cadenaser.com/extremadura/2026/04/17/nueva-regularizacion-de-migrantes-impacto-local-y-papel-clave-de-caritas-en-plasencia-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El rastrillo solidario de primavera de Plasencia se vuelca con la protectora Adopta Plasencia",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://cadenaser.com/extremadura/2026/04/17/el-rastrillo-solidario-de-primavera-de-plasencia-se-vuelca-con-la-protectora-adopta-plasencia-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Manchita impulsa un nuevo camino de peregrinación hasta Guadalupe en seis etapas",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://cadenaser.com/extremadura/2026/04/17/manchita-impulsa-un-nuevo-camino-de-peregrinacion-hasta-guadalupe-en-seis-etapas-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "La VI Feria Internacional del Corcho convertirá a San Vicente de Alcántara en el epicentro de este producto",
       "description": "",
       "date": "2026-04-17",
@@ -775,14 +815,6 @@
       "description": "",
       "date": "2026-04-17",
       "url": "https://cadenaser.com/extremadura/2026/04/16/la-reina-sofia-recibira-a-afad-recuerda-extremadura-en-su-25-aniversario-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las familias del CEIP Los Ángeles denuncian el deterioro del centro y exigen una reforma integral del tejado",
-      "description": "",
-      "date": "2026-04-17",
-      "url": "https://cadenaser.com/extremadura/2026/04/15/las-familias-del-ceip-los-angeles-denuncian-el-deterioro-del-centro-y-exigen-una-reforma-integral-del-tejado-ser-norte-de-extremadura/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -859,6 +891,22 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de Uno Extremadura (17/04/2026)",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-17042026_2026041769e222d62496b0e4b8b0183c.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Club de Senderismo Pasos de Esperanza organiza el 26 de abril la ruta solidaria Pinares de los Balancines",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/club-senderismo-pasos-esperanza-organiza-26-abril-ruta-solidaria-pinares-balancines_2026041769e21cad45ebe50007793cbe.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Extremadura (16/04/2026)",
       "description": "",
       "date": "2026-04-17",
@@ -879,22 +927,6 @@
       "description": "",
       "date": "2026-04-17",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-15042026_2026041569df7c288a98c40007812c69.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Noticias mediodía locales (14/04/26)",
-      "description": "",
-      "date": "2026-04-17",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-locales-140426_2026041469de2f739a4db0e49d41dd3e.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Extremadura (14/04/2026)",
-      "description": "",
-      "date": "2026-04-17",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-14042026_2026041469de2e75cf21260007db0564.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -944,14 +976,6 @@
       "date": "2026-04-17",
       "url": "https://merida.es/agenda/concierto-orquesta-de-extremadura-symphony-of-dance/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida centra la atención del balonmano juvenil extremeño con la disputa de la fase final autonómica",
-      "description": "",
-      "date": "2026-04-16",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
