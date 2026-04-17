@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-04-17T02:43:29Z",
-  "count": 122,
+  "updated_at": "2026-04-17T06:04:23Z",
+  "count": 133,
   "events": [
+    {
+      "title": "Jesús Cimarro recibirá en Mérida el Max de Honor 2026: \"He estado al borde de la ruina\"",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/17/jesus-cimarro-recibira-merida-premio-max-honor-2026-129189053.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "La fábrica de cátodos logra la licencia definitiva y arrancará ya las obras en Mérida",
       "description": "",
       "date": "2026-04-17",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/fabrica-catodos-china-licencia-definitiva-podra-iniciar-obras-merida-129186986.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Revienta la rueda delantera de una avioneta cerca de Mérida y el piloto sale por su propio pie",
-      "description": "",
-      "date": "2026-04-17",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/merida-accidente-avioneta-revienta-rueda-129174932.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -31,6 +31,14 @@
       "description": "",
       "date": "2026-04-17",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/feria-fp-merida-comarca-empleo-129182587.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Revienta la rueda delantera de una avioneta cerca de Mérida y el piloto sale por su propio pie",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/merida-accidente-avioneta-revienta-rueda-129174932.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-04-17",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/merida-referente-turismo-accesible-espana-129135823.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida fulmina la acampada libre en Proserpina con sanciones",
-      "description": "",
-      "date": "2026-04-17",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/15/merida-fulmina-acampada-libre-proserpina-sanciones-129130718.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -395,6 +395,86 @@
       "location": "Mérida"
     },
     {
+      "title": "El Mérida vuelve a llevar ilusión al hospital de Mérida",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/04/16/el-merida-vuelve-a-llevar-ilusion-al-hospital-de-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Comunicado oficial tras el primer año de BIA en la propiedad del club",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/04/16/comunicado-oficial-tras-el-primer-ano-de-bia-en-la-propiedad-del-club/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 10 incidentes de seguridad vial la semana pasada",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/04/14/la-policia-local-intervino-en-10-incidentes-de-seguridad-vial-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 11 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/04/07/la-policia-local-intervino-en-11-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 8 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/04/01/la-policia-local-intervino-en-8-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cortes de tráfico debido a la celebración de la Media Maratón y las pruebas de la Milla y 5K Campeonato de España y Popular este fin de semana",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/04/09/cortes-de-trafico-debido-a-la-celebracion-de-la-media-maraton-y-las-pruebas-de-la-milla-y-5k-campeonato-de-espana-y-popular-este-fin-de-semana/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Media Maratón y el Campeonato de España se celebran este sábado con el emeritense Jorge González, como gran favorito de la prueba",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/04/07/la-media-maraton-y-el-campeonato-de-espana-se-celebran-este-sabado-con-el-emeritense-jorge-gonzalez-como-gran-favorito-de-la-prueba/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abierto el plazo de inscripción para el Concurso de Ambientación Romana para establecimientos con motivo de Emerita Lvdica",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/04/13/abierto-el-plazo-de-inscripcion-para-el-concurso-de-ambientacion-romana-para-establecimientos-con-motivo-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida se consolida como motor turístico con casi 64.000 visitantes en Semana Santa y un crecimiento imparable con unas cifras récord que refuerzan su liderazgo turístico",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/04/08/merida-se-consolida-como-motor-turistico-con-casi-64-000-visitantes-en-semana-santa-y-un-crecimiento-imparable-con-unas-cifras-record-que-refuerzan-su-liderazgo-turistico/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
+      "description": "por Mérida Noticias en Eventos 0",
+      "date": "2026-04-17",
+      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "La Junta abre el plazo para alegaciones a la planta de nitrógeno de Jinhong Gas en Mérida y da un paso de gigante",
       "description": "Educación",
       "date": "2026-04-17",
@@ -407,6 +487,14 @@
       "description": "Virtuoso violonchelista croata",
       "date": "2026-04-17",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/16/hauser-cancela-concierto-merida-problemas-salud-129167664.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida fulmina la acampada libre en Proserpina con sanciones",
+      "description": "Medio ambiente",
+      "date": "2026-04-17",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/15/merida-fulmina-acampada-libre-proserpina-sanciones-129130721.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -691,10 +779,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativo matinal Extremadura (16/04/26)",
+      "title": "Informativo matinal Extremadura (17/04/26)",
       "description": "",
       "date": "2026-04-17",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativo-matinal-extremadura-160426_2026041669e073f633f5b0e4a833c872.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativo-matinal-extremadura-170426_2026041769e1c57033f5b0e47937c872.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
