@@ -111,6 +111,20 @@
       color: var(--primary);
     }
 
+    .back-to-menu {
+      display: none;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--accent);
+      text-decoration: none;
+      margin-top: 0.25rem;
+      transition: opacity 0.2s;
+    }
+
+    .back-to-menu:hover {
+      opacity: 0.8;
+    }
+
     /* Estilos del Hero (antes Header) */
     .hero-section {
       padding: 3rem 1.5rem 2rem;
@@ -392,6 +406,38 @@
       #events-grid {
         grid-template-columns: 1fr;
       }
+
+      .site-header {
+        height: auto;
+      }
+
+      .header-inner-nav {
+        flex-direction: column;
+        height: auto;
+        padding: 1.25rem 1.5rem;
+        gap: 0.5rem;
+      }
+
+      .brand {
+        align-items: center;
+        text-align: center;
+      }
+
+      .brand-xyz {
+        font-size: 0.7rem;
+      }
+
+      .brand-title {
+        font-size: 1.25rem;
+      }
+
+      .nav-links {
+        display: none;
+      }
+
+      .back-to-menu {
+        display: block;
+      }
     }
 
     /* Entrance Animation */
@@ -421,11 +467,12 @@
       <a href="https://meridaxyz.wordpress.com" class="brand">
         <span class="brand-xyz">Mérida XYZ</span>
         <span class="brand-title">Agenda<em>Mérida</em></span>
+        <span class="back-to-menu">← Volver al menú</span>
       </a>
       <nav class="nav-links">
+        <a href="https://fud0dev.github.io/ViviendaMerida/">Viviendas</a>
         <a href="https://fud0dev.github.io/ADMerida/">Deportes</a>
         <a href="https://fud0dev.github.io/EmpleoMerida/">Empleo</a>
-        <a href="https://fud0dev.github.io/ViviendaMerida/">Viviendas</a>
         <a href="https://fud0dev.github.io/InflacionMerida/">Precios</a>
         <a href="https://fud0dev.github.io/LuzMerida/">Luz</a>
       </nav>
@@ -469,15 +516,19 @@
   </main>
 
   <!-- FOOTER -->
-  <footer style="text-align: center; padding: 40px; border-top: 1px solid var(--border); margin-top: 80px; background: white;">
+  <footer
+    style="text-align: center; padding: 40px; border-top: 1px solid var(--border); margin-top: 80px; background: white;">
     <p style="font-size: 0.95rem; font-weight: 600; color: var(--primary); margin-bottom: 15px;">
       Mérida Agenda &copy; 2026
     </p>
-    <p style="font-size: 0.85rem; color: var(--secondary); max-width: 700px; margin: 0 auto 20px auto; line-height: 1.6;">
-      Aviso Legal: Proyecto desarrollado exclusivamente con fines educativos y de difusión cultural. Toda la información pertenece a sus respectivos autores y fuentes oficiales.
+    <p
+      style="font-size: 0.85rem; color: var(--secondary); max-width: 700px; margin: 0 auto 20px auto; line-height: 1.6;">
+      Aviso Legal: Proyecto desarrollado exclusivamente con fines educativos y de difusión cultural. Toda la información
+      pertenece a sus respectivos autores y fuentes oficiales.
     </p>
     <p style="font-size: 0.95rem; color: var(--primary); margin-bottom: 15px;">
-      Creado por <a href="https://github.com/fud0dev" target="_blank" style="color: var(--accent); text-decoration: none; font-weight: 600;">fud0dev</a>
+      Creado por <a href="https://github.com/fud0dev" target="_blank"
+        style="color: var(--accent); text-decoration: none; font-weight: 600;">fud0dev</a>
     </p>
   </footer>
 
