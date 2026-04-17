@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-17T06:04:23Z",
-  "count": 133,
+  "updated_at": "2026-04-17T09:20:26Z",
+  "count": 134,
   "events": [
     {
       "title": "Jesús Cimarro recibirá en Mérida el Max de Honor 2026: \"He estado al borde de la ruina\"",
@@ -163,10 +163,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Los bomberos de Mérida actúan para sofocar un incendio en una vivienda de Ronda de los Eméritos",
-      "description": "15 abr 2026 18:33",
+      "title": "El Ayuntamiento da la licencia definitiva de obra al proyecto de la fábrica de cátodos en Mérida",
+      "description": "17 abr 2026 08:19",
       "date": "2026-04-17",
-      "url": "https://www.hoy.es/merida/bomberos-merida-actuan-sofocar-incendio-vivienda-ronda-20260415150543-nt.html",
+      "url": "https://www.hoy.es/merida/ayuntamiento-licencia-definitiva-obra-proyecto-fabrica-catodos-20260417150608-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -180,7 +180,7 @@
     },
     {
       "title": "Alumnos del instituto emeritense Albarregas logran el premio al mejor logro técnico de un concurso de la Agencia Espacial Europea",
-      "description": "16 abr 2026 17:44",
+      "description": "17 abr 2026 09:46",
       "date": "2026-04-17",
       "url": "https://www.hoy.es/merida/alumnos-instituto-emeritense-albarregas-disenan-mini-satelite-20260416144908-nt.html",
       "source": "Hoy.es",
@@ -207,6 +207,14 @@
       "description": "16 abr 2026 15:14",
       "date": "2026-04-17",
       "url": "https://www.hoy.es/merida/merida-acoge-manana-fin-semana-muestra-hamburguesas-20260415121634-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los bomberos de Mérida actúan para sofocar un incendio en una vivienda de Ronda de los Eméritos",
+      "description": "15 abr 2026 18:33",
+      "date": "2026-04-17",
+      "url": "https://www.hoy.es/merida/bomberos-merida-actuan-sofocar-incendio-vivienda-ronda-20260415150543-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -303,14 +311,6 @@
       "description": "13 abr 2026 07:22",
       "date": "2026-04-17",
       "url": "https://www.hoy.es/merida/cuatro-escolares-merida-premiados-9300-inscritos-concurso-20260413150047-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El atletismo 'vende' Mérida en todo el mundo y el emeritense Jorge González, campeón",
-      "description": "12 abr 2026 10:10",
-      "date": "2026-04-17",
-      "url": "https://www.hoy.es/merida/media-maraton-merida-20260412101011-ga.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -699,6 +699,30 @@
       "location": "Mérida"
     },
     {
+      "title": "De \"votantes muy satisfechos\" a \"tomadura de pelo absoluta\": primeras reacciones políticas al pacto entre PP y Vox en Extremadura",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://cadenaser.com/extremadura/2026/04/17/una-tomadura-de-pelo-absoluta-primeras-reacciones-politicas-al-pacto-entre-pp-y-vox-en-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El líder Plasencia se enfrenta a un exigente duelo frente al Cabezuela en plena lucha por el liderato",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://cadenaser.com/extremadura/2026/04/17/el-lider-plasencia-se-enfrenta-a-un-exigente-duelo-en-cabezuela-en-plena-lucha-por-el-liderato-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Philip Morris acelera su inversión en España y dispara su impacto económico",
+      "description": "",
+      "date": "2026-04-17",
+      "url": "https://cadenaser.com/extremadura/2026/04/17/philip-morris-acelera-su-inversion-en-espana-y-dispara-su-impacto-economico-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "PP y Vox sellan un acuerdo de gobierno en Extremadura con rebajas fiscales, giro en inmigración y blindaje del sector primario",
       "description": "",
       "date": "2026-04-17",
@@ -735,22 +759,6 @@
       "description": "",
       "date": "2026-04-17",
       "url": "https://cadenaser.com/extremadura/2026/04/15/caceres-aplica-un-tratamiento-innovador-para-proteger-sus-palmeras-del-picudo-rojo-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Extremúsika reunirá a 60 bandas en Cáceres con 14.000 abonos ya vendidos para el puente de mayo",
-      "description": "",
-      "date": "2026-04-17",
-      "url": "https://cadenaser.com/extremadura/2026/04/15/extremusika-reunira-a-60-bandas-en-caceres-con-14000-abonos-ya-vendidos-para-el-puente-de-mayo-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El robo de aceitunas en la provincia de Badajoz baja un 30% con respecto a la campaña anterior",
-      "description": "",
-      "date": "2026-04-17",
-      "url": "https://cadenaser.com/extremadura/2026/04/15/el-robo-de-aceitunas-en-la-provincia-de-badajoz-baja-un-30-con-respecto-a-la-campana-anterior-radio-extremadura/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
