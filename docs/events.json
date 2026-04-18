@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-18T02:34:16Z",
-  "count": 137,
+  "updated_at": "2026-04-18T05:42:15Z",
+  "count": 138,
   "events": [
+    {
+      "title": "El estudio del AVE Madrid-Lisboa genera malestar en Cáceres por dejar fuera a Plasencia y Mérida del recorrido ferroviario",
+      "description": "",
+      "date": "2026-04-18",
+      "url": "https://www.elperiodicoextremadura.com/caceres-local/2026/04/18/estudio-ave-madrid-lisboa-genera-129227511.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida idea una fórmula para que vestirse de romano en Emerita Lvdica sea más fácil y barato",
+      "description": "",
+      "date": "2026-04-18",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/18/merida-idea-formula-vestirse-romano-sea-mas-barato-emerita-lvdica-129231612.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Asociación de Comerciantes de La Antigua renueva su junta directiva para reforzar el comercio del barrio en Mérida",
+      "description": "",
+      "date": "2026-04-18",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/17/asociacion-comerciantes-antigua-renueva-junta-129231319.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Polémica en Mérida por la portada iluminada del parque de los Enamorados: \"Es una horterada\"",
       "description": "",
@@ -15,14 +39,6 @@
       "description": "",
       "date": "2026-04-18",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/17/de-padres-hijos-durante-176-anos-popular-carniceria-carmona-merida-cambio-uibicacion-reforma-establecimiento-129213249.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Asociación de Comerciantes de La Antigua renueva su junta directiva para reforzar el comercio del barrio en Mérida",
-      "description": "",
-      "date": "2026-04-18",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/17/asociacion-comerciantes-antigua-renueva-junta-129231319.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-04-18",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/merida-accidente-avioneta-revienta-rueda-129174932.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La historia del chino Pepe, el comerciante de Mérida que se hace fotos con todo el barrio",
-      "description": "",
-      "date": "2026-04-18",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/historia-chino-pepe-tienda-fotos-todo-barrio-merida-129169545.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jarro de agua fría para Stone&Music: HAUSER cancela en Mérida su esperado concierto por problemas de salud",
-      "description": "",
-      "date": "2026-04-18",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/hauser-cancela-concierto-merida-problemas-salud-129167661.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -472,6 +472,14 @@
       "date": "2026-04-18",
       "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
       "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jarro de agua fría para Stone&Music: HAUSER cancela en Mérida su esperado concierto por problemas de salud",
+      "description": "Suceso aéreo",
+      "date": "2026-04-18",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/16/merida-accidente-avioneta-revienta-rueda-129174929.html",
+      "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
