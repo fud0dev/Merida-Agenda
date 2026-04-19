@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T16:42:38Z",
+  "updated_at": "2026-04-19T18:54:46Z",
   "count": 137,
   "events": [
     {
@@ -91,10 +91,26 @@
       "location": "Mérida"
     },
     {
+      "title": "Vídeo | De viviendas sociales a lienzo de arte urbano: el cambio de La Antigua en Mérida",
+      "description": "",
+      "date": "2026-04-19",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
       "title": "Fotogalería | La historia de Mérida contada a través de sus puentes",
       "description": "",
       "date": "2026-04-19",
       "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/04/17/fotogaleria-historia-merida-contada-por-sus-puentes-129233809.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fotogalería | Barriada de La Antigüa de Mérida",
+      "description": "",
+      "date": "2026-04-19",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/04/17/fotogaleria-barriada-antigua-merida-arte-urbano-129232854.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -135,22 +151,6 @@
       "description": "",
       "date": "2026-04-19",
       "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/03/31/fotogaleria-calvario-desfila-martes-pasion-merida-128644332.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Vídeos | La saeta que rompe el silencio en Mérida: Eusebio de la Pinona vuelve a cantar tras la muerte de su madre",
-      "description": "",
-      "date": "2026-04-19",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/03/31/videos-saeta-rompe-silencio-merida-128644337.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fotogalería | Hermandad de Nuestro Padre Jesús de la Humildad y María Santísima de las Lágrimas de Mérida",
-      "description": "",
-      "date": "2026-04-19",
-      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/03/31/fotogaleria-hermandad-las-lagrimas-merida-martes-santo-128641575.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
