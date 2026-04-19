@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-19T08:56:36Z",
-  "count": 137,
+  "updated_at": "2026-04-19T10:40:55Z",
+  "count": 138,
   "events": [
+    {
+      "title": "Mérida se zampa miles de hamburguesas a los pies del acueducto de los Milagros",
+      "description": "",
+      "date": "2026-04-19",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/19/merida-se-zampa-miles-hamburguesas-pies-acueducto-milagros-solidaridad-129271228.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Piedra romana y acero sobre el Guadiana: Mérida resume aquí dos mil años de ingeniería",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La barriada Centro-San Albín de Mérida celebra del 20 al 26 de abril su II Semana Cultural",
-      "description": "",
-      "date": "2026-04-19",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/16/barriada-san-albin-merida-semana-cultural-129192139.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Fotogalería | La historia de Mérida contada a través de sus puentes",
       "description": "",
       "date": "2026-04-19",
@@ -143,6 +143,14 @@
       "description": "",
       "date": "2026-04-19",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/03/31/videos-saeta-rompe-silencio-merida-128644337.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fotogalería | Hermandad de Nuestro Padre Jesús de la Humildad y María Santísima de las Lágrimas de Mérida",
+      "description": "",
+      "date": "2026-04-19",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/03/31/fotogaleria-hermandad-las-lagrimas-merida-martes-santo-128641575.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -470,7 +478,7 @@
       "title": "La Feria de FP de Mérida y comarca muestra más de 80 enseñanzas de 18 familias profesionales, con 3.500 alumnos",
       "description": "Justicia",
       "date": "2026-04-19",
-      "url": "https://www.lacronicabadajoz.com/badajoz/2026/04/19/le-rozaba-brazo-cae-bola-puerta-pilar-badajoz-129271238.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/17/tres-anos-demora-rebajan-condena-merida-explotacion-sexual-tsjex-129210941.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -899,18 +907,18 @@
       "location": "Mérida"
     },
     {
-      "title": "La Policía investiga el origen de la bala que hirió a una niña de 13 años en Badajoz",
-      "description": "",
-      "date": "2026-04-19",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/policia-investiga-origen-bala-que-hirio-nina-13-anos-badajoz_2026041669e0dbb6097ebe16ad7af9d8.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Javier Bravo, nuevo presidente provincial de Vox de Badajoz tras la dimisión de Gonzalo Pozo",
       "description": "",
       "date": "2026-04-19",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/javier-bravo-nuevo-presidente-provincial-vox-badajoz-dimision-gonzalo-pozo_2024051466437e538e8c66000181cb18.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía investiga el origen de la bala que hirió a una niña de 13 años en Badajoz",
+      "description": "",
+      "date": "2026-04-19",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/policia-investiga-origen-bala-que-hirio-nina-13-anos-badajoz_2026041669e0dbb6097ebe16ad7af9d8.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
