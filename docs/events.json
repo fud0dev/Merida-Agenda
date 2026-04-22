@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-22T14:46:11Z",
-  "count": 112,
+  "updated_at": "2026-04-22T20:04:14Z",
+  "count": 110,
   "events": [
+    {
+      "title": "Una marea de 800 bailarines desbordará el Templo de Diana de Mérida en el Día de la Danza",
+      "description": "",
+      "date": "2026-04-22",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/22/merida-marea-bailarines-templo-diana-dia-danza-129408436.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Tres días en el río Guadiana de Mérida con los mejores pescadores de agua dulce de España",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Cuando Roma se mira al espejo, aparece Avgvsta Emerita",
-      "description": "",
-      "date": "2026-04-22",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/20/avgvsta-emerita-merida-historia-visita-roma-129301080.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Fotogalería | Ars Viva: la tradición romana cobra vida en el MNAR de la mano de la EASD Mérida",
       "description": "",
       "date": "2026-04-22",
@@ -147,14 +147,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Vídeo | Abatimiento en Calamonte por el robo en el colegio San José",
-      "description": "",
-      "date": "2026-04-22",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/04/10/video-abatimiento-calamonte-robo-colegio-128957520.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "«Tenemos evidencia de presencia humana en Mérida de hace medio millón de años»",
       "description": "Habla este miércoles (20 horas) sobre la etapa prehistórica de la ciudad",
       "date": "2026-04-22",
@@ -164,7 +156,7 @@
     },
     {
       "title": "Los vecinos de Nueva Ciudad celebran el domingo su romería en la Casa de Campo emeritense",
-      "description": "22 abr 2026 13:47",
+      "description": "22 abr 2026 17:47",
       "date": "2026-04-22",
       "url": "https://www.hoy.es/merida/vecinos-nueva-ciudad-celebran-domingo-romeria-casa-20260422125222-nt.html",
       "source": "Hoy.es",
@@ -199,6 +191,14 @@
       "description": "21 abr 2026 17:43",
       "date": "2026-04-22",
       "url": "https://www.hoy.es/merida/circo-romano-merida-escenario-carreras-lucha-dentro-20260421132324-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jordi Sánchez (OBK): «Los bolos de Extremadura no serán conciertos, serán fiestas»",
+      "description": "22 abr 2026 18:42",
+      "date": "2026-04-22",
+      "url": "https://www.hoy.es/extremadura/jordi-sanchez-obk-bolos-extremadura-conciertos-fiestas-20260422184227-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -307,19 +307,51 @@
       "location": "Mérida"
     },
     {
-      "title": "Charla de Eugenio Fuentes en el Día del Libro",
-      "description": "18 abr 2026 02:00",
-      "date": "2026-04-22",
-      "url": "https://www.hoy.es/merida/charla-eugenio-fuentes-dia-libro-20260418230721-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "El Consejo de Gobierno aprueba 3 millones de euros en ayudas para apoyar la transformación digital de 260 PYMES",
       "description": "",
       "date": "2026-04-22",
       "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
       "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Consejería de Educación de Extremadura Lanza Ayudas para Convivencias en Portugal",
+      "description": "La Consejería de Educación de Extremadura anuncia nuevas ayudasLa Consejería de Educación, Ciencia y Formación Profesional ha dado a conocer la regulación de unas...",
+      "date": "2026-04-22",
+      "url": "https://www.meridadiario.com/2026/04/22/la-consejeria-de-educacion-de-extremadura-lanza-ayudas-para-convivencias-en-portugal/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La sentencia obliga a restituir clientes del agua a Mina en Terrassa",
+      "description": "El Tribunal Superior de Justicia de Cataluña (TSJC) ha dictado una nueva sentencia que obliga al Ayuntamiento de Terrassa a devolver a Mina Pública...",
+      "date": "2026-04-22",
+      "url": "https://www.meridadiario.com/2026/04/22/la-sentencia-obliga-a-restituir-clientes-del-agua-a-mina-en-terrassa/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo hoy 22 de Abril de 2026 en Mérida según AEMET",
+      "description": "",
+      "date": "2026-04-22",
+      "url": "https://www.meridadiario.com/2026/04/22/el-tiempo-hoy-22-de-abril-de-2026-en-merida-segun-aemet/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Madrid acoge el encuentro clave del deporte y entretenimiento internacional",
+      "description": "",
+      "date": "2026-04-22",
+      "url": "https://www.meridadiario.com/2026/04/22/madrid-acoge-el-encuentro-clave-del-deporte-y-entretenimiento-internacional/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El principal encuentro ibérico de yoga de 2026 se celebrará en Navarra",
+      "description": "",
+      "date": "2026-04-22",
+      "url": "https://www.meridadiario.com/2026/04/22/el-principal-encuentro-iberico-de-yoga-de-2026-se-celebrara-en-navarra/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -472,6 +504,14 @@
       "date": "2026-04-22",
       "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
       "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Riña familiar en el aparcamiento del Mercadona de Cuartón Cortijo: la Policía Nacional interviene sin que haya heridos",
+      "description": "Copa del Rey",
+      "date": "2026-04-22",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/21/guardia-civil-detiene-merida-dos-seguidores-real-sociedad-acoso-bandera-espana-atletico-de-madrid-furgoneta-a-5-129345949.html",
+      "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
@@ -691,6 +731,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Noticias Mediodía Mérida (21/04/2026)",
+      "description": "",
+      "date": "2026-04-22",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/noticias-mediodia-merida-21042026_2026042169e770a83726fc0007a58574.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Mérida (21(04(2026)",
       "description": "",
       "date": "2026-04-22",
@@ -703,14 +751,6 @@
       "description": "",
       "date": "2026-04-22",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/actos-religiosos-actividades-ludicas-festejar-romeria-nuestra-senora-milagros-nueva-ciudad_2026042169e76afe1892340007aade35.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativo matinal Mérida (21/04/26)",
-      "description": "",
-      "date": "2026-04-22",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/informativo-matinal-merida-210426_2026042169e73d711892340007aadd0a.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -739,62 +779,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Jornadas ‘Mujeres y Cultura II’",
-      "description": "Los miércoles 8, 15 y 22 de abril, el Auditorio del Centro Cultural Alcazaba acogerá la II edición de las Jornadas 'Mujer y Cultura' sobre el papel de las mujeres en la historia y el presente de la cultura, analizando los condicionantes sociales, psicológicos, filosóficos y artísticos que han inf...",
-      "date": "2026-04-22",
-      "url": "https://merida.es/agenda/jornadas-mujeres-cultura-social/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ciclo Conferencias Liceo: «Augusta Emerita Prehistórica: El territorio emeritense antes de los romanos» por Antonio Rodríguez Hidalgo",
-      "description": "El Liceo de Mérida organiza un nuevo ciclo de conferencias sobre historia y arqueología todos los miércoles, del 8 de abril al 17 junio de 2026, con un total de diez ponencias. En la charlas se abordará el patrimonio emeritense pero también habrá otras no tan enfocadas en los yacimientos de la ci...",
-      "date": "2026-04-22",
-      "url": "https://merida.es/agenda/ciclo-conferencias-liceo-augusta-emerita-prehistorica/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "El aprendizaje tecnológico sin pantallas se consolida como tendencia educativa",
-      "description": "- Centros como el Colegio Sagrados Corazones–Martín de los Heros apuestan por el programa 'Screen-free STEAM' que imparte la compañía edTech IGNITE Serious Play La...",
-      "date": "2026-04-21",
-      "url": "https://www.meridadiario.com/2026/04/21/el-aprendizaje-tecnologico-sin-pantallas-se-consolida-como-tendencia-educativa/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Predicción meteorológica: Mérida, 21 de Abril de 2026",
-      "description": "",
-      "date": "2026-04-21",
-      "url": "https://www.meridadiario.com/2026/04/21/prediccion-meteorologica-merida-21-de-abril-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La sanidad madrileña acorta plazos en intervenciones y consultas",
-      "description": "",
-      "date": "2026-04-21",
-      "url": "https://www.meridadiario.com/2026/04/21/la-sanidad-madrilena-acorta-plazos-en-intervenciones-y-consultas/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura invierte 1,7 millones en el programa ‘Construye tu Futuro’ para reinsertar laboralmente a jóvenes con antecedentes judiciales",
-      "description": "",
-      "date": "2026-04-21",
-      "url": "https://www.meridadiario.com/2026/04/21/la-junta-de-extremadura-invierte-17-millones-en-el-programa-construye-tu-futuro-para-reinsertar-laboralmente-a-jovenes-con-antecedentes-judiciales/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura Aprueba la Modificación de la Concesión de Agua para Riego en Valdecañas",
-      "description": "",
-      "date": "2026-04-20",
-      "url": "https://www.meridadiario.com/2026/04/20/la-junta-de-extremadura-aprueba-la-modificacion-de-la-concesion-de-agua-para-riego-en-valdecanas/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Semana Cultural Centro-San Albín",
       "description": "Del 20 al 26 de abril, la Asociación de Vecinos de Centro-San Albín organiza su Semana Cultural con numerosas actividades con la Plaza Pizarro como epicentro de actividades. El lunes 20 de abril, tendrá lugar una conferencia impartida por la modista emeritense María José García acerca de la elabo...",
       "date": "2026-04-20",
@@ -804,14 +788,14 @@
     },
     {
       "title": "57 jóvenes finalizan el I Programa de Retención del Talento Joven en Extremadura",
-      "description": "El Programa de Retención del Talento Joven de Extremadura finaliza su primera edición Más de cincuenta jóvenes han completado el I Programa de Retención...",
+      "description": "",
       "date": "2026-04-19",
       "url": "https://www.meridadiario.com/2026/04/19/57-jovenes-finalizan-el-i-programa-de-retencion-del-talento-joven-en-extremadura/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "Reducción de 9 días en la espera para consultas externas en Madrid desde enero",
+      "title": "Marshall Wace reduce su posición bajista en Telefónica a comienzos de julio",
       "description": "Reseña Semanal de Accidentes en MéridaLa Policía Local de Mérida reportó 14 incidencias viales en la semana del 16 al 22 de marzo, de...",
       "date": "2026-04-16",
       "url": "https://www.meridadiario.com/",
@@ -819,10 +803,10 @@
       "location": "Mérida"
     },
     {
-      "title": "La Consejería de Educación de Extremadura destaca el alto índice de empleabilidad de la Formación Profesional en Mérida",
+      "title": "Una avioneta cae en Mérida y deja una escena de impacto",
       "description": "",
       "date": "2026-04-16",
-      "url": "https://www.meridadiario.com/2026/04/16/la-consejeria-de-educacion-de-extremadura-destaca-el-alto-indice-de-empleabilidad-de-la-formacion-profesional-en-merida/",
+      "url": "https://www.meridadiario.com/2026/04/16/una-avioneta-cae-en-merida-y-deja-una-escena-de-impacto/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -835,18 +819,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El Gobierno de Extremadura destina 3,36 millones de euros a 161 Escuelas Infantiles para el año 2026",
+      "title": "Tres vecinos atendidos tras un incendio en un piso de Mérida",
       "description": "",
       "date": "2026-04-16",
-      "url": "https://www.meridadiario.com/2026/04/16/el-gobierno-de-extremadura-destina-336-millones-de-euros-a-161-escuelas-infantiles-para-el-ano-2026/",
+      "url": "https://www.meridadiario.com/2026/04/16/tres-vecinos-atendidos-tras-un-incendio-en-un-piso-de-merida/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "El Alcalde de Mérida prohíbe las acampadas no autorizadas en Proserpina para salvaguardar el entorno natural",
+      "title": "El Gobierno de Extremadura destina 3,36 millones de euros a 161 Escuelas Infantiles para el año 2026",
       "description": "",
-      "date": "2026-04-15",
-      "url": "https://www.meridadiario.com/2026/04/15/el-alcalde-de-merida-prohibe-las-acampadas-no-autorizadas-en-proserpina-para-salvaguardar-el-entorno-natural/",
+      "date": "2026-04-16",
+      "url": "https://www.meridadiario.com/2026/04/16/el-gobierno-de-extremadura-destina-336-millones-de-euros-a-161-escuelas-infantiles-para-el-ano-2026/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -875,6 +859,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Uno de cada siete españoles padece enfermedad renal crónica y muchos lo desconocen",
+      "description": "Una patología silenciosa que no da síntomas hasta fases avanzadas y que puede detectarse con un simple análisis de sangre y orina.\nMadrid, 10 de...",
+      "date": "2026-03-10",
+      "url": "https://www.meridadiario.com/2026/03/10/uno-de-cada-siete-espanoles-padece-enfermedad-renal-cronica-y-muchos-lo-desconocen/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Mit Jazz Festival Mérida 2026",
       "description": "Del 7 de marzo al 17 de junio se desarrollará la tercera edición del Miz Jazz Festival Mérida 2026 que volverá a sentir el latido del jazz en una ciudad de más de 2.000 años de historia. El festival acogerá dos citas ineludibles en el Palacio de Congresos: el concierto de presentación el 7 de […]",
       "date": "2026-03-07",
@@ -883,18 +875,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Oppo emplea la inteligencia artificial en sus laboratorios para potenciar la innovación en sus dispositivos tecnológicos",
-      "description": "La compañía tecnológica china OPPO está integrando la Inteligencia Artificial y la robótica en sus laboratorios de fabricación de dispositivos inteligentes. Su objetivo principal...",
-      "date": "2024-01-22",
-      "url": "https://www.meridadiario.com/2024/01/22/oppo-emplea-la-inteligencia-artificial-en-sus-laboratorios-para-potenciar-la-innovacion-en-sus-dispositivos-tecnologicos/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento presenta la película Un viaje extraordinario en su versión dedicada a Mérida",
-      "description": "Rodada por el equipo de Readmore Films durante el pasado verano en las 15 Ciudades Patrimonio de la Humanidad, muestra un recorrido único por...",
-      "date": "2021-11-02",
-      "url": "https://www.meridadiario.com/2021/11/02/el-ayuntamiento-presenta-la-pelicula-un-viaje-extraordinario-en-su-version-dedicada-a-merida/",
+      "title": "Un pacto entre Emiratos Árabes y Georgia complica la reelección de Pololikashvili en ONU Turismo",
+      "description": "Un pacto entre Emiratos Árabes Unidos y Georgia para la detención del exejecutivo de inversiones Giorgi Bachiashvili podría ir el detrimento de la candidatura...",
+      "date": "2025-05-28",
+      "url": "https://www.meridadiario.com/2025/05/28/un-pacto-entre-emiratos-arabes-y-georgia-complica-la-reeleccion-de-pololikashvili-en-onu-turismo/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
