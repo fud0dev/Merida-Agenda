@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-04-23T08:52:17Z",
-  "count": 117,
+  "updated_at": "2026-04-23T15:12:06Z",
+  "count": 138,
   "events": [
+    {
+      "title": "Felipe VI y Mérida, unidos por el congreso jacobeo internacional de octubre",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/23/felipe-vi-merida-unidos-congreso-jacobeo-internacional-octubre-129439757.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Instituto de Arqueología de Mérida estudia un excepcional souvenir romano del siglo II hallado en Soria",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/23/instituto-arqueologia-merida-estudia-excepcional-souvenir-romano-siglo-ii-soria-129438760.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "La romería dominguera de Los Milagros le pone color a Mérida: todo a punto para echarse al campo",
       "description": "",
@@ -75,18 +91,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Un ciclista atropellado y un choque entre un patinete y un coche sacuden el tráfico en Mérida",
+      "title": "Fotogalería | Proserpina, la playa de Mérida",
       "description": "",
       "date": "2026-04-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/21/atropellan-ciclista-choque-patinete-coche-accidentes-merida-129343365.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Eduardo Guerrero lleva este domingo a Mérida su \"Desplante\", un viaje intenso a los cantes mineros",
-      "description": "",
-      "date": "2026-04-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/21/eduardo-guerrero-bailaor-flamenco-lleva-espectaculo-desplante-merida-domingo-129320108.html",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/04/22/fotogaleria-proserpina-playa-merida-129410271.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -139,24 +147,32 @@
       "location": "Mérida"
     },
     {
-      "title": "Carmona, la carnicería de los famosos filetes de ternera en Mérida, se traslada para iniciar una nueva etapa",
-      "description": "",
+      "title": "El Centro Universitario de Mérida celebra su día y reconoce a sus mejores diez expedientes",
+      "description": "El acto académico ha contado también con el profesor mexicano Juan Villegas para hablar de la Inteligencia Artificial",
       "date": "2026-04-23",
-      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/04/17/carmona-carniceria-famosos-filetes-ternera-se-muda-129219285.html",
-      "source": "El Periódico Extremadura",
+      "url": "https://www.hoy.es/merida/centro-universitario-merida-celebra-dia-reconoce-mejores-20260423165856-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
-      "title": "Vídeo | Abatimiento en Calamonte por el robo en el colegio San José",
-      "description": "",
+      "title": "Nines Rodríguez, Dudu Acedo y la Diputación, premios Agripa de esta edición de Emerita Lvdica",
+      "description": "23 abr 2026 13:16",
       "date": "2026-04-23",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/04/10/video-abatimiento-calamonte-robo-colegio-128957520.html",
-      "source": "El Periódico Extremadura",
+      "url": "https://www.hoy.es/merida/nines-rodriguez-dudu-acedo-diputacion-premios-agripa-20260423130811-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El congreso internacional de asociaciones reivindicará en Mérida la Vía de la Plata como gran camino jacobeo",
+      "description": "23 abr 2026 16:04",
+      "date": "2026-04-23",
+      "url": "https://www.hoy.es/merida/congreso-internacional-asociaciones-reivindicara-merida-via-plata-20260423125150-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
       "title": "El Museo Abierto de Mérida acoge este sábado un intercambio de vestidos para Emerita Lvdica",
-      "description": "También incluye la venta de complementos; a ello se suma un 'banco solidario' para donar vestuario a nuevos participantes y colectivos",
+      "description": "22 abr 2026 13:47",
       "date": "2026-04-23",
       "url": "https://www.hoy.es/merida/museo-abierto-merida-acoge-sabado-intercambio-vestidos-20260422134705-nt.html",
       "source": "Hoy.es",
@@ -179,34 +195,18 @@
       "location": "Mérida"
     },
     {
-      "title": "«Tenemos evidencia de presencia humana en Mérida de hace medio millón de años»",
-      "description": "22 abr 2026 09:13",
-      "date": "2026-04-23",
-      "url": "https://www.hoy.es/merida/evidencia-presencia-humana-merida-medio-millon-anos-20260422194338-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Arrestados dos aficionados de la Real Sociedad por conducción temeraria y lanzar bengalas en la A-66 a su paso por Mérida",
-      "description": "21 abr 2026 17:09",
-      "date": "2026-04-23",
-      "url": "https://www.hoy.es/merida/detenidos-dos-aficionados-real-sociedad-conduccion-temeraria-20260421160132-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Circo Romano de Mérida, escenario de carreras y lucha dentro de los I Juegos Grecolatinos",
-      "description": "21 abr 2026 17:43",
-      "date": "2026-04-23",
-      "url": "https://www.hoy.es/merida/circo-romano-merida-escenario-carreras-lucha-dentro-20260421132324-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Jordi Sánchez (OBK): «Los bolos de Extremadura no serán conciertos, serán fiestas»",
       "description": "22 abr 2026 18:42",
       "date": "2026-04-23",
       "url": "https://www.hoy.es/extremadura/jordi-sanchez-obk-bolos-extremadura-conciertos-fiestas-20260422184227-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "«Tenemos evidencia de presencia humana en Mérida de hace medio millón de años»",
+      "description": "22 abr 2026 09:13",
+      "date": "2026-04-23",
+      "url": "https://www.hoy.es/merida/evidencia-presencia-humana-merida-medio-millon-anos-20260422194338-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -231,6 +231,22 @@
       "description": "22 abr 2026 02:00",
       "date": "2026-04-23",
       "url": "https://www.hoy.es/merida/1000-participantes-siete-sillas-20260422194932-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Circo Romano de Mérida, escenario de carreras y lucha dentro de los I Juegos Grecolatinos",
+      "description": "21 abr 2026 17:43",
+      "date": "2026-04-23",
+      "url": "https://www.hoy.es/merida/circo-romano-merida-escenario-carreras-lucha-dentro-20260421132324-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Detenidos dos aficionados de la Real Sociedad por conducción temeraria y lanzar bengalas en la A-66 a su paso por Mérida",
+      "description": "21 abr 2026 17:09",
+      "date": "2026-04-23",
+      "url": "https://www.hoy.es/merida/detenidos-dos-aficionados-real-sociedad-conduccion-temeraria-20260421160132-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -291,27 +307,43 @@
       "location": "Mérida"
     },
     {
-      "title": "La III edición del Mercado de las Flores, del 28 al 30 de este mes",
-      "description": "19 abr 2026 02:00",
+      "title": "El Consejo de Gobierno aprueba 3 millones de euros en ayudas para apoyar la transformación digital de 260 PYMES",
+      "description": "",
       "date": "2026-04-23",
-      "url": "https://www.hoy.es/merida/iii-edicion-mercado-flores-mes-20260419184127-nt.html",
-      "source": "Hoy.es",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
-      "title": "El colegio Trajano celebra el Día del Patrimonio en el Arco",
-      "description": "18 abr 2026 08:01",
+      "title": "El Paseo de Roma acogerá del 28 al 30 de abril la tercera edición del Mercado de las Flores con más de 1.500 variedades de plantas y diferentes talleres para todos los públicos",
+      "description": "Abr 23, 2026 | Comercio y Emprendimiento",
       "date": "2026-04-23",
-      "url": "https://www.hoy.es/merida/colegio-trajano-celebra-dia-patrimonio-arco-20260418192453-nt.html",
-      "source": "Hoy.es",
+      "url": "https://merida.es/el-paseo-de-roma-acogera-del-28-al-30-de-abril-la-tercera-edicion-del-mercado-de-las-flores-con-mas-de-1-500-variedades-de-plantas-y-diferentes-talleres-para-todos-los-publicos/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
-      "title": "Santa Eulalia visita Mirandilla",
-      "description": "18 abr 2026 02:00",
+      "title": "La Diputación de Badajoz, Eduardo Acedo y Ángela Rodríguez Farelo, Premios Agripa de Emerita Lvdica 2026",
+      "description": "Abr 23, 2026 | Turismo",
       "date": "2026-04-23",
-      "url": "https://www.hoy.es/merida/santa-eulalia-visita-mirandilla-20260418230720-nt.html",
-      "source": "Hoy.es",
+      "url": "https://merida.es/la-diputacion-de-badajoz-eduardo-acedo-y-angela-rodriguez-farelo-premios-agripa-de-emerita-lvdica-2026/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida acogerá del 22 al 25 de octubre el XIV Congreso Internacional de Asociaciones Jacobeas",
+      "description": "Abr 23, 2026 | Alcaldía , Turismo",
+      "date": "2026-04-23",
+      "url": "https://merida.es/merida-acogera-del-22-al-25-de-octubre-el-xiv-congreso-internacional-de-asociaciones-jacobeas/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El GACA XI refuerza su vínculo histórico con la ciudad de Mérida con la celebración, del 5 al 7 de mayo, de las XXIII Jornadas Artilleras",
+      "description": "Abr 23, 2026 | Cultura , Turismo",
+      "date": "2026-04-23",
+      "url": "https://merida.es/el-gaca-xi-refuerza-su-vinculo-historico-con-la-ciudad-de-merida-con-la-celebracion-del-5-al-7-de-mayo-de-las-xxiii-jornadas-artilleras/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -363,46 +395,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Más de 60 integrantes de los Clubes de Lectura de la Biblioteca participan en una jornada que une literatura y entorno rural",
-      "description": "Abr 20, 2026 | Biblioteca Municipal",
-      "date": "2026-04-23",
-      "url": "https://merida.es/mas-de-60-integrantes-de-los-clubes-de-lectura-de-la-biblioteca-participan-en-una-jornada-que-une-literatura-y-entorno-rural/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "‘Sangre y tierra’, ópera de cámara contemporánea basada en Bodas de Sangre se pone en escena el jueves, en el Centro Cultural de Nueva Ciudad",
-      "description": "Abr 20, 2026 | Cultura",
-      "date": "2026-04-23",
-      "url": "https://merida.es/sangre-y-tierra-opera-de-camara-contemporanea-basada-en-bodas-de-sangre-se-pone-en-escena-el-jueves-en-el-centro-cultural-de-nueva-ciudad/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida impulsa Forum Vestis Emeritense para fomentar la reutilización de indumentaria romana en Emerita Lvdica",
-      "description": "Abr 17, 2026 | Turismo",
-      "date": "2026-04-23",
-      "url": "https://merida.es/el-ayuntamiento-de-merida-impulsa-forum-vestis-emeritense-para-fomentar-la-reutilizacion-de-indumentaria-romana-en-emerita-lvdica/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La barriada Centro-San Albín celebrará del 20 al 26 de abril la segunda edición de la Semana Cultural",
-      "description": "Abr 16, 2026 | Participación Ciudadana",
-      "date": "2026-04-23",
-      "url": "https://merida.es/la-barriada-centro-san-albin-celebrara-del-20-al-26-de-abril-la-segunda-edicion-de-la-semana-cultural/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La cantera del CD Josefinas Mérida sigue escribiendo su futuro con letras de campeón",
-      "description": "",
-      "date": "2026-04-23",
-      "url": "https://meridanoticias.com/2026/04/20/la-cantera-del-cd-josefinas-merida-sigue-escribiendo-su-futuro-con-letras-de-campeon/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "La Policía Local intervino en 10 incidentes de seguridad vial la semana pasada",
       "description": "",
       "date": "2026-04-23",
@@ -415,6 +407,14 @@
       "description": "",
       "date": "2026-04-23",
       "url": "https://meridanoticias.com/2026/04/07/la-policia-local-intervino-en-11-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La cantera del CD Josefinas Mérida sigue escribiendo su futuro con letras de campeón",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://meridanoticias.com/2026/04/20/la-cantera-del-cd-josefinas-merida-sigue-escribiendo-su-futuro-con-letras-de-campeon/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -451,14 +451,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Acueducto de los Milagros acoge este fin de semana la I edición de “The Masters Burguers”",
-      "description": "",
-      "date": "2026-04-23",
-      "url": "https://meridanoticias.com/2026/04/15/el-acueducto-de-los-milagros-acoge-este-fin-de-semana-la-i-edicion-de-the-masters-burguers/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
       "description": "por Mérida Noticias en Eventos 0",
       "date": "2026-04-23",
@@ -467,18 +459,18 @@
       "location": "Mérida"
     },
     {
-      "title": "En Badajoz la regularización de migrantes arranca sin colas, con muchas citas previas y esperanza en más de mil personas",
-      "description": "Copa del Rey",
+      "title": "Más de tres años de demora por parte de los tribunales rebajan en Mérida una condena por explotación sexual",
+      "description": "Seguridad vial",
       "date": "2026-04-23",
-      "url": "https://www.lacronicabadajoz.com/badajoz/2026/04/23/noticias-destacadas-23-abril-2026-badajoz-125829415.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/21/atropellan-ciclista-choque-patinete-coche-accidentes-merida-129343364.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
       "title": "La Feria de FP de Mérida y comarca muestra más de 80 enseñanzas de 18 familias profesionales, con 3.500 alumnos",
-      "description": "Justicia",
+      "description": "Educación",
       "date": "2026-04-23",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/17/tres-anos-demora-rebajan-condena-merida-explotacion-sexual-tsjex-129210941.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/16/feria-fp-merida-comarca-empleo-129182592.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -603,11 +595,203 @@
       "location": "Mérida"
     },
     {
-      "title": "Una nueva banda de Mérida presentará su primer disco con un concierto único",
-      "description": "Propuesta musical",
+      "title": "Tranquilidad y sin incidentes, tónica  en el inicio del proceso de regularización de migrantes en Extremadura",
+      "description": "",
       "date": "2026-04-23",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/06/nueva-banda-disco-concierto-musica-merida-128789407.html",
-      "source": "La Crónica de Badajoz",
+      "url": "https://cadenaser.com/extremadura/2026/04/17/tranquilidad-y-sin-incidentes-tonica-en-el-inicio-del-proceso-de-regularizacion-de-migrantes-en-extremadura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida concede la licencia definitiva a la fábrica de cátodos de Hunan Yuneng",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/16/el-ayuntamiento-de-merida-concede-la-licencia-definitiva-a-la-fabrica-de-catodos-de-hunan-yuneng-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Trabajadoras de Limpieza de los hospitales de Mérida y Tierra de Barros retoman las protestas",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/15/trabajadoras-de-limpieza-de-los-hospitales-de-merida-y-tierra-de-barros-retoman-las-protestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jesús Cimarro, directo del Festival de Mérida, Premio Max de Honor 2026",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/16/jesus-cimarro-directo-del-festival-de-merida-premio-max-de-honor-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Torremayor busca a través de un proyecto en Ecólatras la reforestación del casco urbano",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/16/torremayor-busca-a-traves-de-un-proyecto-en-ecolatras-la-reforestacion-del-casco-urbano-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El sistema de tratamiento de agua por osmosis inversa se estrena en Lobón",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/15/el-sistema-de-tratamiento-de-agua-de-osmosis-inversa-se-estrena-en-lobon-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La MUM inaugura en Mérida con showcases de Chloé Bird y ADMIRE",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/15/la-mum-inaugura-en-merida-con-showcases-de-chloe-bird-y-admire-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cepaim Mérida y Adelante+ refuerzan el empoderamiento de la mujer con una formación en autocuidados",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/14/cepaim-merida-y-adelante-refuerzan-el-empoderamiento-de-la-mujer-con-una-formacion-en-autocuidados-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"Nouvelle Vague\" inicia el nuevo ciclo de cine en versión original de Mérida",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/13/nouvelle-vague-inicia-el-nuevo-ciclo-de-cine-en-version-original-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Colegio San Luis de Mérida saca las aulas a la calle en una jornada de actividades didácticas",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/10/el-colegio-san-luis-de-merida-saca-las-aulas-a-la-calle-en-una-jornada-de-actividades-didacticas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los jóvenes y el teatro inundarán Mérida la próxima semana",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/10/los-jovenes-y-el-teatro-inundaran-merida-la-proxima-semana-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Diario de un camino: llegada a Guadalupe tras seis días de peregrinación entre dehesas, historia y emoción",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/23/diario-de-un-camino-llegada-a-guadalupe-tras-seis-dias-de-peregrinacion-entre-dehesas-historia-y-emocion-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "“Viva la sanidad pública”: Cándido Gómez regresa a los escenarios en Villanueva de la Serena",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/23/viva-la-sanidad-publica-candido-gomez-regresa-a-los-escenarios-en-villanueva-de-la-serena-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Philip Morris refuerza su estrategia industrial en un contexto de crecimiento global del negocio sin humo",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/23/philip-morris-refuerza-su-estrategia-industrial-en-un-contexto-de-crecimiento-global-del-negocio-sin-humo-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Don Benito destina 9.000 mil euros a deportistas de máximo nivel",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/22/don-benito-destina-9000-mil-euros-a-deportistas-de-maximo-nivel-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "María Guardiola, investida presidenta de Extremadura con los votos del PP y Vox",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/22/continua-el-pleno-de-investidura-de-maria-guardiola-con-los-grupos-parlamentarios-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "José Luis Rodríguez Zapatero intervendrá en el 16 Congreso extraordinario del PSOE de Extremadura",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/22/jose-luis-rodriguez-zapatero-intervendra-en-el-16-congreso-extraordinario-del-psoe-de-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "María Guardiola se enfrenta al PSOE y Unidas por Extremadura",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/22/guardiola-pide-a-la-oposicion-que-no-usen-el-miedo-y-a-vox-estabilidad-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Don Benito devolverá a Plena Inclusión los terrenos de su complejo para facilitar su ampliación",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/22/el-ayuntamiento-de-don-benito-devolvera-a-plena-inclusion-los-terrenos-de-su-complejo-para-facilitar-su-ampliacion-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Diario de un camino: la ruta se adentra en los Ibores en una etapa más exigente",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/22/diario-de-un-camino-la-ruta-se-adentra-en-los-ibores-en-una-etapa-mas-exigente-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "María Guardiola defiende su segundo intento de investidura con la previsión de ser nombrada presidenta",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/21/maria-guardiola-se-enfrenta-a-la-segunda-sesion-de-investidura-de-la-legislatura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Sánchez Juliá defiende el discurso \"valiente\" de Guardiola",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/21/sanchez-julia-defiende-el-discurso-valiente-de-guardiola-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El PSOE de Extremadura defenderá la legalidad dentro y fuera de la Asamblea de Extremadura",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/21/el-psoe-de-extremadura-defendera-la-legalidad-dentro-y-fuera-de-la-asamblea-de-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Vox comparece y valora \"muy positivamente\" el discurso de Guardiola",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/21/vox-comparece-y-valora-muy-positivamente-el-discurso-de-guardiola-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Irene de Miguel califica de \"vergonzoso\" el discurso de Guardiola",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://cadenaser.com/extremadura/2026/04/21/irene-de-miguel-califica-de-vergonzoso-el-discurso-de-guardiola-radio-extremadura/",
+      "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
     {
@@ -643,18 +827,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Extremadura (21/04/26)",
+      "title": "Noticias mediodía Extremadura (23/04/26)",
       "description": "",
       "date": "2026-04-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-210426_2026042169e76707a8abe50007d8e6a5.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-230426_2026042369ea0ad189a37f00077d556f.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Noticias Mediodía Mérida (22/04/2026)",
+      "title": "Noticias Mediodía locales (23/04/2026)",
       "description": "",
       "date": "2026-04-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/noticias-mediodia-merida_2026042269e8c0b51892340007aae27f.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-locales-23042026_2026042369ea07b03726fc0007a58d1d.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -683,6 +867,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Especial Más de uno por el Dia Mundial del Libro",
+      "description": "",
+      "date": "2026-04-23",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/especial-mas-uno-dia-mundial-libro_2026042369ea06651892340007aae654.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Mérida (22/04/2024)",
       "description": "",
       "date": "2026-04-23",
@@ -695,22 +887,6 @@
       "description": "",
       "date": "2026-04-23",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-21042026_2026042169e76ecfa2e0b0e42d8bf7ba.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Actos religiosos y actividades lúdicas para festejar la Romería de Nuestra Señora de Los Milagros de Nueva Ciudad",
-      "description": "",
-      "date": "2026-04-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/actos-religiosos-actividades-ludicas-festejar-romeria-nuestra-senora-milagros-nueva-ciudad_2026042169e76afe1892340007aade35.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativo matinal Mérida (21/04/26)",
-      "description": "",
-      "date": "2026-04-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/informativo-matinal-merida-210426_2026042169e73d711892340007aadd0a.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -731,10 +907,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El ganador del cartel del Carnaval 2024 se defiende: \"La IA es un complemento más, no ha sido usada al cien por cien\"",
+      "title": "Javier Bravo, nuevo presidente provincial de Vox de Badajoz tras la dimisión de Gonzalo Pozo",
       "description": "",
       "date": "2026-04-23",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/ganador-cartel-carnaval-2024-defiende-complemento-mas-sido-usada-cien-cien_20231215657c4227d7b0c300018fef1a.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/javier-bravo-nuevo-presidente-provincial-vox-badajoz-dimision-gonzalo-pozo_2024051466437e538e8c66000181cb18.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -784,14 +960,6 @@
       "date": "2026-04-23",
       "url": "https://merida.es/agenda/opera-de-camara-contemporanea-sangre-y-tierra/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Consejo de Gobierno aprueba 3 millones de euros en ayudas para apoyar la transformación digital de 260 PYMES",
-      "description": "",
-      "date": "2026-04-22",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
