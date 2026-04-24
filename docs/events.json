@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-24T14:44:36Z",
-  "count": 113,
+  "updated_at": "2026-04-24T19:51:17Z",
+  "count": 110,
   "events": [
+    {
+      "title": "Por Mérida reclama que el futuro AVE Madrid-Lisboa tenga parada en la ciudad",
+      "description": "",
+      "date": "2026-04-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/24/ave-madrid-lisboa-tren-transportes-merida-129492710.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Emerita Lvdica tomará Mérida con 175 actividades: cuadrigas con aforo controlado y gladiadores",
       "description": "",
       "date": "2026-04-24",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/24/emerita-lvdica-merida-recreacion-ocio-fiesta-cultura-129481814.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Festival Danzaria llevará a Mérida la acrobacia y danza contemporánea de ‘Kairós’",
+      "description": "",
+      "date": "2026-04-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/24/danzaria-acrobacia-danza-cultura-ocio-merida-129490253.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-04-24",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/23/instituto-arqueologia-merida-estudia-excepcional-souvenir-romano-siglo-ii-soria-129438760.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La romería dominguera de Los Milagros le pone color a Mérida: todo a punto para echarse al campo",
-      "description": "",
-      "date": "2026-04-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/23/romeria-dominguera-milagros-vecinos-nueva-ciudad-merida-129412781.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una marea de 800 bailarines desbordará el Templo de Diana de Mérida en el Día de la Danza",
-      "description": "",
-      "date": "2026-04-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/22/merida-marea-bailarines-templo-diana-dia-danza-129408436.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -727,30 +727,6 @@
       "description": "Mérida celebra los días 15 y 16 de mayo (en lugar del 24 y 25 de abril inicialmente previsto) la XII edición de 'Mérida en Danza', un evento que congrega a 15 academias de baile y danza de la ciudad en el escenario monumental del Templo de Diana. Esta cita, consolidada como una de las […]",
       "date": "2026-04-24",
       "url": "https://merida.es/agenda/merida-en-danza-2026/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Sociedad Científica de Mérida «Las primeras sismólogas europeas»",
-      "description": "El viernes 24 de abril, el Centro Cultural Alcazaba acoge una nueva conferencia de la Sociedad Científica de Mérida con el título \"Las primeras sismólogas europeas\" que será impartida por Elisa Buforn Peiró, Catedrática de Física de la Tierra, UCM. Inge Lehmann es la sismóloga europea más conocid...",
-      "date": "2026-04-24",
-      "url": "https://merida.es/agenda/sociedad-cientifica-de-merida-las-primeras-sismologas-europeas/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Concierto Helix Trío",
-      "description": "El viernes 24 de abril, a las 20:00 horas, el Auditorio del Centro Cultural Santo Domingo de la Fundación CB acoge un nuevo concierto de la Sociedad Filarmónica Esteban Sánchez con la actuación del Trío Helix, compuesto por Jaume Angelès Fité (violín), Iago Domínguez Eiras (violoncello) y Paula B...",
-      "date": "2026-04-24",
-      "url": "https://merida.es/agenda/concierto-helix-trio/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Teatro: «La comedia de las equivocaciones»",
-      "description": "Espectáculo: La comedia de las equivocaciones Compañía: La Porciúncula Sinopsis: Un padre busca a sus dos hijos gemelos que, junto a su mujer y a otras dos gemelas recogidas al nacer, se perdieron tras un naufragio. Uno de sus hijos persigue el mismo objetivo en compañía de una de las dos hermana...",
-      "date": "2026-04-24",
-      "url": "https://merida.es/agenda/teatro-la-comedia-de-las-equivocaciones/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
