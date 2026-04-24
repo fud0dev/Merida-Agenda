@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-04-24T08:59:22Z",
-  "count": 114,
+  "updated_at": "2026-04-24T14:44:36Z",
+  "count": 113,
   "events": [
+    {
+      "title": "Emerita Lvdica tomará Mérida con 175 actividades: cuadrigas con aforo controlado y gladiadores",
+      "description": "",
+      "date": "2026-04-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/24/emerita-lvdica-merida-recreacion-ocio-fiesta-cultura-129481814.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El grupo Cervatana de Mérida pone a vibrar La Revuelta con su directo en La Petanca del Año",
+      "description": "",
+      "date": "2026-04-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/24/grupo-cervatana-musica-tve-larevuelta-merida-broncano-129478762.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Shakespeare llega a la Sala Trajano de Mérida con una comedia de enredos e inclusión",
+      "description": "",
+      "date": "2026-04-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/24/shakespeare-sala-trajano-cultura-teatro-ocio-merida-129473007.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La tradición artillera de Extremadura se dará cita en Mérida con exposiciones y conferencias",
+      "description": "",
+      "date": "2026-04-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/24/jornadas-artilleras-historia-cultura-extremadura-merida-129472236.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Mérida este fin de semana: tardes de toros y papas con choco en el Bar Carlos",
       "description": "",
@@ -55,38 +87,6 @@
       "description": "",
       "date": "2026-04-24",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/22/merida-marea-bailarines-templo-diana-dia-danza-129408436.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Tres días en el río Guadiana de Mérida con los mejores pescadores de agua dulce de España",
-      "description": "",
-      "date": "2026-04-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/22/tres-dias-rio-guadiana-merida-mejores-pescadores-espana-agua-dulce-129396080.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una visita exclusiva al subsuelo romano de Mérida",
-      "description": "",
-      "date": "2026-04-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/22/visita-exclusiva-subsuelo-romano-merida-129389723.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Arranca la Feria Taurina de Mérida: San Albín vuelve al vértigo y la emoción del toro",
-      "description": "",
-      "date": "2026-04-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/22/arranca-feria-taurina-merida-san-albin-toros-emocion-129385783.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Mercado de las Flores planta la semana que viene en Mérida un enorme jardín",
-      "description": "",
-      "date": "2026-04-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/22/mercado-flores-planta-semana-que-viene-enorme-jardin-merida-129362893.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -155,8 +155,16 @@
       "location": "Mérida"
     },
     {
+      "title": "Emerita Lvdica redobla su cartel de gran fiesta recreacionista con 175 actividades programadas",
+      "description": "Habrá de nuevo carrera de cuádrigas, el 21 de mayo; dos espectáculos de gladiadores, el sábado 23, y se activa el control de aforo en determinados escenarios, con entrada igualmente gratuita",
+      "date": "2026-04-24",
+      "url": "https://www.hoy.es/merida/emerita-lvdica-redobla-cartel-gran-fiesta-recreacionista-20260424130500-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Trasladado al hospital un niño de tres años tras sufrir un atropello en Mérida",
-      "description": "El menor ha sufrido un trauma craneal y policontusiones",
+      "description": "23 abr 2026 17:39",
       "date": "2026-04-24",
       "url": "https://www.hoy.es/merida/trasladado-hospital-nino-tres-anos-tras-sufrir-20260423173914-nt.html",
       "source": "Hoy.es",
@@ -167,6 +175,14 @@
       "description": "24 abr 2026 09:03",
       "date": "2026-04-24",
       "url": "https://www.hoy.es/merida/aplazadas-actuaciones-dia-danza-prevision-lluvia-merida-20260424090309-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Esta es la música que sonará en el Stone&amp;Music 2026",
+      "description": "24 abr 2026 08:56",
+      "date": "2026-04-24",
+      "url": "https://www.hoy.es/merida/musica-sonara-stonemusic-merida-artitas-grupos-2026-20251119091207-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -183,14 +199,6 @@
       "description": "23 abr 2026 13:16",
       "date": "2026-04-24",
       "url": "https://www.hoy.es/merida/nines-rodriguez-dudu-acedo-diputacion-premios-agripa-20260423130811-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Esta es la música que sonará en el Stone&amp;Music 2026",
-      "description": "24 abr 2026 08:56",
-      "date": "2026-04-24",
-      "url": "https://www.hoy.es/merida/musica-sonara-stonemusic-merida-artitas-grupos-2026-20251119091207-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -307,11 +315,27 @@
       "location": "Mérida"
     },
     {
-      "title": "Una bodega solicita permiso ambiental para convertirse en alojamiento rural",
-      "description": "20 abr 2026 10:11",
+      "title": "Mérida presenta la XVI edición de Emerita Lvdica, que se celebrará del 18 al 24 de mayo, con más de 175 actividades",
+      "description": "",
       "date": "2026-04-24",
-      "url": "https://www.hoy.es/merida/bodega-solicita-permiso-ambiental-convertirse-alojamiento-rural-20260420174005-nt.html",
-      "source": "Hoy.es",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida presenta la XVI edición de Emerita Lvdica con más de 175 actividades y una programación más amplia que en ediciones anteriores",
+      "description": "Abr 24, 2026 | Alcaldía , Turismo",
+      "date": "2026-04-24",
+      "url": "https://merida.es/merida-presenta-la-xvi-edicion-de-emerita-lvdica-con-mas-de-175-actividades-y-una-programacion-mas-amplia-que-en-ediciones-anteriores/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Festival Danzaria programa en Mérida el espectáculo ‘Kairós’ de la compañía FIKÄ el sábado en el Centro Cultural Alcazaba",
+      "description": "Abr 24, 2026 | Cultura",
+      "date": "2026-04-24",
+      "url": "https://merida.es/el-festival-danzaria-programa-en-merida-el-espectaculo-kairos-de-la-compania-fika-el-sabado-en-el-centro-cultural-alcazaba/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -379,19 +403,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida impulsa el turismo cultural y deportivo con los I Juegos Grecolatinos del IES Santa Eulalia en el marco de la XVI Emerita Lvdica",
-      "description": "Abr 21, 2026 | Turismo",
-      "date": "2026-04-24",
-      "url": "https://merida.es/merida-impulsa-el-turismo-cultural-y-deportivo-con-los-i-juegos-grecolatinos-del-ies-santa-eulalia-en-el-marco-de-la-xvi-emerita-lvdica/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "La Policía Local intervino en 11 incidentes relacionados con la siniestralidad vial en la ciudad la semana pasada",
-      "description": "Abr 21, 2026 | Seguridad Ciudadana , Tráfico",
+      "description": "",
       "date": "2026-04-24",
-      "url": "https://merida.es/la-policia-local-intervino-en-11-incidentes-relacionados-con-la-siniestralidad-vial-en-la-ciudad-la-semana-pasada/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/04/21/la-policia-local-intervino-en-11-incidentes-relacionados-con-la-siniestralidad-vial-en-la-ciudad-la-semana-pasada/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -459,18 +475,34 @@
       "location": "Mérida"
     },
     {
-      "title": "La Delegación del Gobierno aclara que las dos detenciones no fueron por el acoso a la furgoneta del Atleti en Mérida",
-      "description": "Ciencia y pasado",
+      "title": "Mérida presenta la programación de actividades de Emerita Lvdica 2026",
+      "description": "Mérida",
       "date": "2026-04-24",
-      "url": "https://www.lacronicabadajoz.com/badajoz/2026/04/24/noticias-destacadas-24-abril-2026-badajoz-125829415.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/24/merida-presenta-programacion-actividades-emerita-129480592.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Delegación del Gobierno aclara que las dos detenciones no fueron por el acoso a la furgoneta del Atleti en Mérida",
+      "description": "Copa del Rey",
+      "date": "2026-04-24",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/21/guardia-civil-detiene-merida-dos-seguidores-real-sociedad-acoso-bandera-espana-atletico-de-madrid-furgoneta-a-5-129345949.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Un ciclista atropellado y un choque entre un patinete y un coche sacuden el tráfico en Mérida",
+      "description": "Seguridad vial",
+      "date": "2026-04-24",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/21/atropellan-ciclista-choque-patinete-coche-accidentes-merida-129343364.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
       "title": "Más de tres años de demora por parte de los tribunales rebajan en Mérida una condena por explotación sexual",
-      "description": "Seguridad vial",
+      "description": "Justicia",
       "date": "2026-04-24",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/21/atropellan-ciclista-choque-patinete-coche-accidentes-merida-129343364.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/17/tres-anos-demora-rebajan-condena-merida-explotacion-sexual-tsjex-129210941.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -571,38 +603,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida abre la puerta a captar más taxistas con la eliminación del examen obligatorio",
-      "description": "Demanda del sector",
-      "date": "2026-04-24",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/07/taxi-taxistas-examen-ayuntamiento-merida-128823467.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Festival de Mérida llevará el teatro grecolatino a 20 pueblos extremeños con el programa Ceres",
-      "description": "Nueva edición",
-      "date": "2026-04-24",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/07/festival-merida-teatro-grecolatino-arte-cultura-128820523.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Seis barriadas de Mérida cuentan ya con nuevos parques infantiles más modernos y seguros",
-      "description": "Áreas de juegos y saludables",
-      "date": "2026-04-24",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/07/barriadas-parques-infantil-juegos-obras-merida-128817839.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "El arte contemporáneo de Mérida saldrá a la calle este sábado con el estreno de Mercarte",
-      "description": "Propuesta cultural",
-      "date": "2026-04-24",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/06/arte-contemporaneo-merida-mercado-cultura-128792342.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
       "title": "La barriada San Albín de Mérida celebrará su Semana Cultural con los menores como protagonistas del 20 al 26 de abril",
       "description": "",
       "date": "2026-04-24",
@@ -635,10 +635,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Extremadura (23/04/26)",
+      "title": "Noticias mediodía Extremadura (24/04/26)",
       "description": "",
       "date": "2026-04-24",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-230426_2026042369ea0ad189a37f00077d556f.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-240426_2026042469eb5b583726fc0007a5910a.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -752,14 +752,6 @@
       "date": "2026-04-24",
       "url": "https://merida.es/agenda/teatro-la-comedia-de-las-equivocaciones/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Eduardo Acedo , Ángela Rodríguez Farelo y la Diputación de Badajoz, Premios Agripa de Emerita Lvdica 2026",
-      "description": "",
-      "date": "2026-04-23",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
