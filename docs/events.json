@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-26T08:15:10Z",
+  "updated_at": "2026-04-26T14:03:54Z",
   "count": 109,
   "events": [
+    {
+      "title": "Fallece en Mérida el joven Hugo Serrano Álvarez, ejemplo de lucha contra el cáncer",
+      "description": "",
+      "date": "2026-04-26",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/26/hugo-romeria-nueva-ciudad-fallecido-cancer-merida-129540432.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Proserpina (la playa de Mérida): baños de verano y meriendas familiares",
       "description": "",
@@ -11,18 +19,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El Fandi indulta a ‘Gorrión’ y los tres toreros salen a hombros",
-      "description": "",
-      "date": "2026-04-26",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/25/fandi-indulta-gorrion-tres-toreros-129529603.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "El Hospital de Mérida avanza en humanización con un baño adaptado para personas ostomizadas",
       "description": "",
       "date": "2026-04-26",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/26/hospital-merida-avanza-humanizacion-bano-129533826.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Fandi indulta a ‘Gorrión’ y los tres toreros salen a hombros",
+      "description": "",
+      "date": "2026-04-26",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/25/fandi-indulta-gorrion-tres-toreros-129529603.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida este fin de semana: tardes de toros y papas con choco en el Bar Carlos",
-      "description": "",
-      "date": "2026-04-26",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/24/merida-semana-tardes-toros-papas-129430792.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Fotogalería | Proserpina, la playa de Mérida",
       "description": "",
       "date": "2026-04-26",
@@ -143,6 +143,14 @@
       "description": "",
       "date": "2026-04-26",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/04/17/video-habla-antonio-carmona-propietario-popular-carniceria-merida-129219773.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Carmona, la carnicería de los famosos filetes de ternera en Mérida, se traslada para iniciar una nueva etapa",
+      "description": "",
+      "date": "2026-04-26",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/04/17/carmona-carniceria-famosos-filetes-ternera-se-muda-129219285.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -451,18 +459,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida presenta la programación de actividades de Emerita Lvdica 2026",
-      "description": "Mérida",
+      "title": "El Instituto de Arqueología de Mérida estudia un excepcional souvenir romano del siglo II hallado en Soria",
+      "description": "Programación de la XVI edición",
       "date": "2026-04-26",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/24/merida-presenta-programacion-actividades-emerita-129480592.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/24/emerita-lvdica-merida-recreacion-ocio-fiesta-cultura-129481815.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
-      "title": "El Instituto de Arqueología de Mérida estudia un excepcional souvenir romano del siglo II hallado en Soria",
-      "description": "Ciencia y pasado",
+      "title": "Mérida presenta la programación de actividades de Emerita Lvdica 2026",
+      "description": "Mérida",
       "date": "2026-04-26",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/23/instituto-arqueologia-merida-estudia-excepcional-souvenir-romano-siglo-ii-soria-129438762.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/24/merida-presenta-programacion-actividades-emerita-129480592.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -567,14 +575,6 @@
       "description": "Mérida",
       "date": "2026-04-26",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/08/accidente-laboral-merida-trabajador-herido-128861399.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida se sube a la ruta del tren de lujo Al Ándalus y refuerza su proyección internacional",
-      "description": "Servicio de Renfe",
-      "date": "2026-04-26",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/07/merida-ruta-tren-lujo-renfe-trenes-turismo-128836877.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
