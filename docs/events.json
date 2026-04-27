@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-27T15:06:50Z",
-  "count": 108,
+  "updated_at": "2026-04-27T20:07:22Z",
+  "count": 107,
   "events": [
+    {
+      "title": "Mérida reunirá a los mejores bailarines de España para elegir a la selección que irá al Mundial",
+      "description": "",
+      "date": "2026-04-27",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/27/merida-mejores-bailarines-mundial-espana-danza-129587945.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El servicio de limpieza del Hospital de Mérida denuncia falta de personal y caos en los horarios",
       "description": "",
@@ -11,10 +19,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Investigan a un hombre por grabar presuntamente a jóvenes en los vestuarios de la Ciudad Deportiva de Mérida",
+      "title": "Los pinos dañados por el temporal junto a La Loba de Mérida se convertirán en esculturas",
       "description": "",
       "date": "2026-04-27",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/27/hombre-jovenes-delito-suceso-detencion-policia-merida-129566202.html",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/27/pinos-temporal-jardines-fcc-arboles-merida-129584099.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Un trabajador herido grave con quemaduras de hierro fundido en una fábrica de Mérida",
+      "description": "",
+      "date": "2026-04-27",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/27/herido-grave-trabajador-quemaduras-hierro-accidente-merida-129585990.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -31,6 +47,14 @@
       "description": "",
       "date": "2026-04-27",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/27/calle-suarez-somonte-merida-obras-trafico-129568983.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Investigan a un hombre por grabar presuntamente a jóvenes en los vestuarios de la Ciudad Deportiva de Mérida",
+      "description": "",
+      "date": "2026-04-27",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/27/hombre-jovenes-delito-suceso-detencion-policia-merida-129566202.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -63,30 +87,6 @@
       "description": "",
       "date": "2026-04-27",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/04/26/solitaria-oreja-tomas-bastos-cierre-129553360.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fallece en Mérida el joven Hugo Serrano Álvarez, ejemplo de lucha contra el cáncer",
-      "description": "",
-      "date": "2026-04-27",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/26/hugo-romeria-nueva-ciudad-fallecido-cancer-merida-129540432.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Hospital de Mérida avanza en humanización con un baño adaptado para personas ostomizadas",
-      "description": "",
-      "date": "2026-04-27",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/26/hospital-merida-avanza-humanizacion-bano-129533826.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Proserpina (la playa de Mérida): baños de verano y meriendas familiares",
-      "description": "",
-      "date": "2026-04-27",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/26/playa-merida-proserpina-banos-verano-meriendas-familiares-129431756.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -163,6 +163,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Herido grave un hombre de 53 años por quemaduras de hierro fundido en Mérida",
+      "description": "27 abr 2026 20:18",
+      "date": "2026-04-27",
+      "url": "https://www.hoy.es/merida/herido-grave-hombre-anos-quemaduras-hierro-fundido-20260427172857-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Los Juegos Grecolatinos llegan mañana al Circo Romano de Mérida con deporte y cultura",
       "description": "27 abr 2026 15:18",
       "date": "2026-04-27",
@@ -172,7 +180,7 @@
     },
     {
       "title": "La tercera edición del Mercado de las Flores de Mérida empieza mañana con 1.500 variedades de plantas",
-      "description": "27 abr 2026 13:03",
+      "description": "27 abr 2026 18:44",
       "date": "2026-04-27",
       "url": "https://www.hoy.es/merida/tercera-edicion-mercado-flores-merida-empieza-manana-20260427130322-nt.html",
       "source": "Hoy.es",
@@ -307,14 +315,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Museo Abierto de Mérida acoge este sábado un intercambio de vestidos para Emerita Lvdica",
-      "description": "22 abr 2026 13:47",
-      "date": "2026-04-27",
-      "url": "https://www.hoy.es/merida/museo-abierto-merida-acoge-sabado-intercambio-vestidos-20260422134705-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "III Feria de la Cerveza Artesana este fin de semana en el Acueducto de los Milagros de Mérida",
       "description": "",
       "date": "2026-04-27",
@@ -411,6 +411,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Promoción entradas para el Mérida frente al Lugo de la jornada 35",
+      "description": "por Mérida Noticias en Deportes 0",
+      "date": "2026-04-27",
+      "url": "https://meridanoticias.com/2026/04/27/promocion-entradas-para-el-merida-frente-al-lugo-de-la-jornada-35/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "La Policía Local intervino en 11 incidentes relacionados con la siniestralidad vial en la ciudad la semana pasada",
       "description": "",
       "date": "2026-04-27",
@@ -467,19 +475,35 @@
       "location": "Mérida"
     },
     {
-      "title": "Cortes de tráfico debido a la celebración de la Media Maratón y las pruebas de la Milla y 5K Campeonato de España y Popular este fin de semana",
-      "description": "",
-      "date": "2026-04-27",
-      "url": "https://meridanoticias.com/2026/04/09/cortes-de-trafico-debido-a-la-celebracion-de-la-media-maraton-y-las-pruebas-de-la-milla-y-5k-campeonato-de-espana-y-popular-este-fin-de-semana/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
       "description": "por Mérida Noticias en Eventos 0",
       "date": "2026-04-27",
       "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
       "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Delegación del Gobierno aclara que las dos detenciones no fueron por el acoso a la furgoneta del Atleti en Mérida",
+      "description": "Suceso",
+      "date": "2026-04-27",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/27/hombre-jovenes-delito-suceso-detencion-policia-merida-129566203.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fallece en Mérida el joven Hugo Serrano Álvarez, ejemplo de lucha contra el cáncer",
+      "description": "Obituario",
+      "date": "2026-04-27",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/26/hugo-romeria-nueva-ciudad-fallecido-cancer-merida-129540431.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Hospital de Mérida avanza en humanización con un baño adaptado para personas ostomizadas",
+      "description": "Atención sanitaria",
+      "date": "2026-04-27",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/26/hospital-merida-avanza-humanizacion-bano-129533827.html",
+      "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
@@ -519,14 +543,6 @@
       "description": "Ciencia y pasado",
       "date": "2026-04-27",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/23/instituto-arqueologia-merida-estudia-excepcional-souvenir-romano-siglo-ii-soria-129438762.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Delegación del Gobierno aclara que las dos detenciones no fueron por el acoso a la furgoneta del Atleti en Mérida",
-      "description": "Copa del Rey",
-      "date": "2026-04-27",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/21/guardia-civil-detiene-merida-dos-seguidores-real-sociedad-acoso-bandera-espana-atletico-de-madrid-furgoneta-a-5-129345949.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -583,14 +599,6 @@
       "description": "Medio ambiente",
       "date": "2026-04-27",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/15/merida-fulmina-acampada-libre-proserpina-sanciones-129130721.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Por Mérida propone bajar el IBI en Mérida al 0,5% y bonificar herencias y rehabilitación en barrios vulnerables",
-      "description": "Fiscalidad en la capital extremeña",
-      "date": "2026-04-27",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/14/merida-propone-bajar-ibi-merida-bonificar-herencias-129077253.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -728,22 +736,6 @@
       "date": "2026-04-27",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/javier-bravo-nuevo-presidente-provincial-vox-badajoz-dimision-gonzalo-pozo_2024051466437e538e8c66000181cb18.html",
       "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Día del Centro ‘Conservatorio Profesional de Música Esteban Sánchez’",
-      "description": "El lunes 27 de abril, el Conservatorio Profesional de Música Esteban Sánchez celebra el Día del Centro con una jornada de convivencia y varias actividades especiales: 16:30 h. Balfolk: Una invitación abierta al baile y al ritmo para disfrutar. Plaza del Conservatorio 18:00 h. Tradicional Merienda...",
-      "date": "2026-04-27",
-      "url": "https://merida.es/agenda/dia-del-centro-conservatorio-profesional-de-musica-esteban-sanchez/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "39º Ciclo de Cine VOSE: «No hay otra opción»",
-      "description": "Título original: No Other Choice País: Corea del Sur Año: 2025 Duración: 139’ Dirección: Park Chan-wook Guion: Park Chan-wook, Don McKellar, Lee Kyoung-mi, Jahye Lee. Novela: Donald E. Westlake Género: Thriller. Comedia Reparto: Lee Byung-hun, Son Ye-jin, Lee Sung-min, Yeom Hye-ram, Yoo Yeon-seok...",
-      "date": "2026-04-27",
-      "url": "https://merida.es/agenda/39o-ciclo-de-cine-vose-no-hay-otra-opcion/",
-      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
