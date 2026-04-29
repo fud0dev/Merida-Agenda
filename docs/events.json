@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-04-29T15:12:29Z",
-  "count": 108,
+  "updated_at": "2026-04-29T20:09:42Z",
+  "count": 107,
   "events": [
+    {
+      "title": "Hunan Yuneng firma con la Junta la compra de 467.000 metros para su fábrica de cátodos en Mérida",
+      "description": "",
+      "date": "2026-04-29",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/29/hunan-yuneng-firma-junta-compra-467-000-metros-cuadrados-fabrica-catodos-merida-129676434.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cursos gratuitos para mujeres en Mérida: diseño, confección, emprendimiento y cerámica para encontrar empleo",
+      "description": "",
+      "date": "2026-04-29",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/29/cursos-gratuitos-mujeres-merida-diseno-ceramica-artesania-trabajos-129673523.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Cae un punto de venta de droga \"muy activo\" en Mérida con cocaína, hachís y dos detenidos",
       "description": "",
@@ -75,22 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La Feria del Libro de Mérida reunirá en el Templo de Diana a Elsa Punset, Manuel Vilas y Marta Robles",
-      "description": "",
-      "date": "2026-04-29",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/28/feria-libro-literatura-escritores-letras-merida-129612561.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La fábrica de cátodos de Mérida avanza con la salida a información pública de la línea eléctrica",
-      "description": "",
-      "date": "2026-04-29",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/28/fabrica-catodos-junta-industria-empresas-merida-129608747.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Mérida presenta la programación de actividades de Emerita Lvdica 2026",
       "description": "",
       "date": "2026-04-29",
@@ -155,10 +155,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Sale a información pública la autorización para la línea eléctrica que abastecerá a la fábrica de cátodos",
+      "title": "Sale a información pública la autorización para la línea eléctrica que abastecerá a la fábrica de cátodos de Mérida",
       "description": "",
       "date": "2026-04-29",
-      "url": "https://www.hoy.es/merida/sale-informacion-publica-autorizacion-linea-electrica-abastecera-20260428142604-nt.html",
+      "url": "https://www.hoy.es/merida/empresa-fabrica-catodos-formaliza-compra-terreno-expacio-20260429193100-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -167,6 +167,14 @@
       "description": "",
       "date": "2026-04-29",
       "url": "https://www.hoy.es/merida/desmantelan-punto-venta-drogas-activo-avenida-portugal-20260429140341-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Nacional evita que un hombre se tire de un tercer piso en Mérida",
+      "description": "",
+      "date": "2026-04-29",
+      "url": "https://www.hoy.es/merida/policia-nacional-evita-hombre-tire-tercer-piso-20260429105443-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -191,14 +199,6 @@
       "description": "",
       "date": "2026-04-29",
       "url": "https://www.hoy.es/merida/arqueologo-miguel-alba-ofrece-charla-sobre-pozos-20260429182227-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Nacional evita que un hombre se tire de un tercer piso en Mérida",
-      "description": "",
-      "date": "2026-04-29",
-      "url": "https://www.hoy.es/merida/policia-nacional-evita-hombre-tire-tercer-piso-20260429105443-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -376,6 +376,14 @@
       "date": "2026-04-29",
       "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
       "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Feria del Libro de Mérida reunirá en el Templo de Diana a Elsa Punset, Manuel Vilas y Marta Robles",
+      "description": "Suceso",
+      "date": "2026-04-29",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/28/cinco-denuncias-grabaciones-delito-policia-merida-129624560.html",
+      "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
@@ -643,14 +651,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Ciclo Conferencias Liceo: «Los pozos de nieve de la Calle Reyes Huertas» por Miguel Alba",
-      "description": "El Liceo de Mérida organiza un nuevo ciclo de conferencias sobre historia y arqueología todos los miércoles, del 8 de abril al 17 junio de 2026, con un total de diez ponencias. En la charlas se abordará el patrimonio emeritense pero también habrá otras no tan enfocadas en los yacimientos de la ci...",
-      "date": "2026-04-29",
-      "url": "https://merida.es/agenda/ciclo-conferencias-liceo-los-pozos-de-nieve-de-la-calle-reyes-huertas-por-miguel-alba/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "Este es el programa de Emerita Lvdica 2026",
       "description": "",
       "date": "2026-04-28",
@@ -799,14 +799,6 @@
       "description": "",
       "date": "2026-04-26",
       "url": "https://www.hoy.es/merida/vuelta-mercado-busca-ropa-complementos-avgusta-emerita-20260426081041-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Parques inicia la instalación de 150 fuentes dentro de un plan de nuevo mobiliario urbano en Mérida",
-      "description": "",
-      "date": "2026-04-26",
-      "url": "https://www.hoy.es/merida/parques-inicia-instalacion-150-fuentes-dentro-plan-20260426211709-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
