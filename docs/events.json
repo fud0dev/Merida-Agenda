@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-04-30T15:09:29Z",
-  "count": 111,
+  "updated_at": "2026-04-30T20:08:36Z",
+  "count": 109,
   "events": [
+    {
+      "title": "El Teatro Romano de Mérida abre gratis para una noche de jotas, niños y raíces extremeñas",
+      "description": "",
+      "date": "2026-04-30",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/30/folklore-extremeno-gratis-sabado-teatro-romano-merida-129717275.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El vídeo del acoso a una furgoneta del Atlético en la A-66 cerca de Mérida suma dos investigados más",
+      "description": "",
+      "date": "2026-04-30",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/30/video-acoso-furgoneta-atletico-cerca-merida-suma-dos-investigados-mas-real-sociedad-guardia-civil-final-copa-129716615.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El lío de las baldosas de Santa Eulalia en Mérida puede acabar en los tribunales",
       "description": "",
@@ -75,18 +91,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida en Danza anuncia nuevas fechas tras aplazarse por la lluvia",
+      "title": "Fotogalería | La fábrica de cátodos en Expacio Mérida",
       "description": "",
       "date": "2026-04-30",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/29/merida-danza-ya-tiene-nuevas-fechas-aplazado-lluvia-129655135.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Vecinos de Tierno Galván, en Mérida, se hartan de los botellones: \"Llevamos años así y todo sigue igual\"",
-      "description": "",
-      "date": "2026-04-30",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/04/29/vecinos-tierno-galvan-continuan-merida-sin-soluciones-botellones-129651144.html",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/04/30/fotogaleria-fabrica-catodos-expacio-merida-129705169.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -143,14 +151,6 @@
       "description": "",
       "date": "2026-04-30",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/04/19/video-viviendas-sociales-lienzo-arte-urbano-barriada-la-antigua-merida-129283867.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fotogalería | La historia de Mérida contada a través de sus puentes",
-      "description": "",
-      "date": "2026-04-30",
-      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/04/17/fotogaleria-historia-merida-contada-por-sus-puentes-129233809.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -663,22 +663,6 @@
       "description": "Mérida celebra los días 30 de abril y 15-16 de mayo la XII edición de 'Mérida en Danza', un evento que congrega a 13 academias de baile y danza de la ciudad en el escenario monumental del Templo de Diana. Esta cita, consolidada como una de las más populares de la programación cultural, permite a […]",
       "date": "2026-04-30",
       "url": "https://merida.es/agenda/merida-en-danza-2026/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ciclo de Conferencias MNAR Grandes personajes de la Antigüedad II: «Berenice, una princesa judía entre Oriente y Occidente»",
-      "description": "“Grandes personajes de la Antigüedad” es un encuentro semanal que pretende aproximar, a los participantes en las conferencias, a las más diversas personalidades que hicieron la Historia Antigua, desde oriente a occidente, tanto hombres como mujeres, generalmente silenciadas, a las que damos visib...",
-      "date": "2026-04-30",
-      "url": "https://merida.es/agenda/ciclo-de-conferencias-mnar-grandes-personajes-de-la-antiguedad-ii-berenice-una-princesa-judia-entre-oriente-y-occidente/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cine Filmoteca: «Yo te creo»",
-      "description": "Título original: On vous croit País: Bélgica Año: 2025 Duración: 78’ Dirección: Charlotte Devillers, Arnaud Dufeys Guion: Charlotte Devillers, Arnaud Dufeys Género: Drama Reparto: Mads Mikkelsen, Nikolaj Lie Kaas, Søren Malling, Sofie Gråbøl, Nicolas Bro Sinopsis: Hoy, Alice se presenta ante el j...",
-      "date": "2026-04-30",
-      "url": "https://merida.es/agenda/cine-filmoteca-yo-te-creo/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
